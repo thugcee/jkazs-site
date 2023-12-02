@@ -1,0 +1,6 @@
+social:
+  - identifier: facebook
+    name: Facebook
+    url: https://www.facebook.com/jk.azs.szczecin/
+    params:
+      icon: brand-facebook

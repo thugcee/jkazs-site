@@ -1,0 +1,11 @@
+baseurl: https://jkazs.szn.pl
+languageCode: pl-pl
+defaultContentLanguage: pl
+paginate: 10
+title: Jacht Klub AZS Szczecin
+hasCJKLanguage: false
+security:
+  funcs:
+    getenv:
+      - ^HUGO_
+      - ^WC_

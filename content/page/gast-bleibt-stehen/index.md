@@ -1,17 +1,10 @@
 ---
-title: Przydatne linki
-links:
-  - title: GitHub
-    description: GitHub is the world's largest software development platform.
-    website: https://github.com
-    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+title: Herzlich willkommen
 menu:
     main: 
-        weight: 19 
+        weight: 200
         params:
-            icon: link
-
-comments: false
+            icon: de
 ---
 
 To use this feature, add `links` section to frontmatter.
