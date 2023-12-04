@@ -1,4 +1,5 @@
-baseurl: https://jkazs.szn.pl
+baseurl: https://jkazs.szn.pl/
+relativeURLs: true
 languageCode: pl-pl
 defaultContentLanguage: pl
 paginate: 10
