@@ -1,7 +1,8 @@
 ---
-title: Zarząd Jach Klubu AZS
+title: Zarząd Jacht Klubu AZS
 ---
 ## Skład zarządu Jacht Klubu AZS
+
 ### Zarząd Klubu
 
 | Stanowisko                        | Osoba                   |                                               |
@@ -21,7 +22,7 @@ title: Zarząd Jach Klubu AZS
 | Wiceprzewodniczący | **Marek Hermach**      |
 | Sekretarz          | **Bartosz Kraczowski** |
 
-### Sąd Koleżeński 
+### Sąd Koleżeński
 
 | Stanowisko         | Osoba                  |
 |---                 |---                     |
