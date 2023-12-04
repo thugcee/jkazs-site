@@ -1,5 +1,6 @@
 ---
 title: Zarząd Jacht Klubu AZS
+date: 2023-12-04
 ---
 ## Skład zarządu Jacht Klubu AZS
 

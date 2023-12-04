@@ -4,3 +4,9 @@ social:
     url: https://www.facebook.com/jk.azs.szczecin/
     params:
       icon: brand-facebook
+main:
+  - identifier: stara-strona
+    name: Stara strona WWW
+    url: /stara-strona
+    params:
+      icon: snowflake
