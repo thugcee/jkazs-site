@@ -1,6 +1,6 @@
 ---
-title: Example Category
-description: A description of this category
+title: Sprawy klubowe
+description: Posty dotyczące członków Klubu.
 image:
 
 # Badge style
