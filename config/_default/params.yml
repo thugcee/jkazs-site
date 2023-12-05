@@ -1,5 +1,6 @@
 mainSections:
   - post
+  - page
 rssFullContent: true
 favicon: /favicon.png
 footer:
