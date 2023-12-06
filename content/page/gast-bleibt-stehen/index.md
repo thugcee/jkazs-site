@@ -5,6 +5,7 @@ menu:
         weight: 200
         params:
             icon: de
+date: 2022-10-06
 ---
 
 To use this feature, add `links` section to frontmatter.

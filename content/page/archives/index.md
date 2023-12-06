@@ -8,4 +8,5 @@ menu:
         weight: 110
         params: 
             icon: archives
+hidden: true
 ---

@@ -5,6 +5,7 @@ menu:
         weight: 2
         params:
             icon: beach
+date: 2022-09-07T00:20:50+01:00
 ---
 
 Jacht Klub AZS usytuowany jest w południowej części Jeziora Dąbie. Port
