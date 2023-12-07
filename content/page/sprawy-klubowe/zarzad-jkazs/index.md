@@ -1,5 +1,6 @@
 ---
 title: Zarząd Jacht Klubu AZS
+image: 20130511_0060-v1-R1-4k-Wieczorem na przystani.jpg
 date: 2022-12-04
 ---
 ## Skład zarządu Jacht Klubu AZS

@@ -1,5 +1,6 @@
 ---
 title: Informacje o przystani i postoje gościnne
+image: 20130512_0011-v0--1080p.jpg
 menu:
     main: 
         weight: 2
