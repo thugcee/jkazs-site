@@ -14,8 +14,8 @@ menu:
 - [Jak zostać członkiem klubu](jak-zostać-członkiem)
 - [Opłaty dla członków klubu](opłaty-dla-członków/)
 - [Akcesoria klubowe](akcesoria-klubowe/)
-- [Na wiecznej wachcie](https://jkazs.szn.pl/content/na-wiecznej-wachcie)
-- [Jachty związane z klubem](https://jkazs.szn.pl/content/jachty)
+- [Na wiecznej wachcie](https://jkazs.szn.pl/stara-strona/content/na-wiecznej-wachcie.html)
+- [Jachty związane z klubem](https://jkazs.szn.pl/stara-strona/content/jachty.html)
 
 ### Tytuły przelewów
 
