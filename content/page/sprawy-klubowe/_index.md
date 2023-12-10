@@ -12,7 +12,7 @@ menu:
 - [Komandorzy](komandorzy)
 - [Członkowie honorowi](członkowie-honorowi/)
 - [Jak zostać członkiem klubu](jak-zostać-członkiem)
-- Opłaty dla członków klubu
+- [Opłaty dla członków klubu](opłaty-dla-członków/)
 - [Akcesoria klubowe](akcesoria-klubowe/)
 - [Na wiecznej wachcie](https://jkazs.szn.pl/content/na-wiecznej-wachcie)
 - [Jachty związane z klubem](https://jkazs.szn.pl/content/jachty)
