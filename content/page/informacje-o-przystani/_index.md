@@ -1,6 +1,7 @@
 ---
 title: Informacje o przystani i postoje gościnne
-image: 20130512_0011-v0--1080p.jpg
+layout: single
+image: SZCZECIN_JKAZS_PLAN_PRZYSTANI.jpg
 menu:
     main: 
         weight: 2
@@ -28,19 +29,19 @@ autobusowy znajduje się niedaleko bramy wjazdowej.
 | Telefon do bosmana | +48 600 233 221 |
 | Godziny pracy biura | PONIEDZIAŁEK 9.00 - 15.30 <br/> WTOREK 9.00 - 17.30 <br/> ŚRODA 9.00 - 18.00 <br/> CZWARTEK 9.00 - 17.30 <br/> PIĄTEK 9.00-16.30 |
 | NIP | 955-00-05-467 |
-| Konto | BOŚ S.A. O/Szczecin<br/>92 1540 1085 2098 5313 3504 0001 <br/> UWAGA: Każdorazowo w tytule przelewu powinny znaleźć się informacje, które pozwolą jednoznacznie zidentyfikować należność. Np. imię i nazwisko osoby (nie każda płatność dotyczy właściciela rachunku), nazwę jachtu, rodzaj płatności (postój, boks, wodowanie/slipowanie, kładzenie/stawianie masztu, czarter, składki, wpisowe, godziny statutowe itp.) oraz okres, jakiego dane należności dotyczą! |
-
-Zobacz mapę w pełnym wymiarze.
+| Konto | BOŚ S.A. O/Szczecin<br/>92 1540 1085 2098 5313 3504 0001 |
 
 ## Położenie
 
-Zatoczka w południowozachodniej części Jeziora Dąbie Małe.
+Zatoczka w południowo-zachodniej części Jeziora Dąbie Małe.
 
 Położenie na mapach: [OpenStreetMap](https://www.openstreetmap.org/node/2396250849), [Google Maps](http://maps.google.com/maps/ms?ie=UTF8&hl=en&t=h&msa=0&msid=107138309144250252667.00047ce94cdeb26e4583f&ll=53.396458,14.621472&spn=0.008956,0.018239&z=15&source=embe)
 
 ## Warunki postoju
 
 Do 3h postój bezpłatny. Opłata postojowa za dobę zależna od długości jednostki.
+
+[Rezerwacja postoju gościnnego.](rezerwacja-postoju-gościnnego)
 
 ### Cennik opłat za postój jachtów gościnnych w 2023 roku
 
@@ -53,8 +54,14 @@ Do 3h postój bezpłatny. Opłata postojowa za dobę zależna od długości jedn
  - 16-17,99 m                 120 zł / dzień
  - ponad 18 m               cena negocjowana
 
-### Opłaty dodatkowe:
+### Opłaty dodatkowe
 
  - media (woda, prąd) - 10,00 zł / dzień
  - prysznic - 10,00 zł / sztuka,
  - stawianie i kładzenie masztu – do 8 m – 90,00 zł, pow. 8 m – 110,00 zł
+
+Szczegółowe informacje w biurze klubu.
+
+### Usługi dostępne w obrębie przystani
+
+Dźwig do stawiania masztów, tawerna, warsztat szkutniczy, żaglownia AST Sails na miejscu, stacja paliw 300 m, sklep spożywczy: 3 km, sklep żeglarski 100 m.
