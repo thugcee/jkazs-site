@@ -22,6 +22,7 @@ links:
   - title: Pogoda
     description: Strony z prognozami pogody
     website: https://jkazs.szn.pl/stara-strona/pogoda.html
+image: dew-4934874_1920.jpg
 menu:
     main: 
         weight: 19 

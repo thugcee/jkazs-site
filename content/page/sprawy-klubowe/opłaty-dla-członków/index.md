@@ -22,17 +22,17 @@ title: Cennik dla członków klubu
 1. Opłaty roczne należy wpłacać z góry do kasy Klubu lub na konto bankowe Klubu do ostatniego dnia lutego danego roku.
 1. Opłata roczna może być regulowana w dwóch ratach: I – do ostatniego dnia lutego, II – do 30 czerwca (w tab. raty), członkowie klubu, którzy przekroczą termin wpłaty półrocznej, płacą za dane półrocze opłaty miesięczne.
 1. Zniżka dla pracowników Zachodniopomorskiego Uniwersytetu Technologicznego – 20%.
-1. Opłaty za postój w hali dla członków klubu: 14 zł/m² \+ opłata za energię elektryczną (wg wskazań podlicznika) + opłata za śmieci.
+1. Opłaty miesięczne za postój w hali dla członków klubu: 14 zł/m² \+ opłata za energię elektryczną (wg wskazań podlicznika) + opłata za śmieci.
 
 ## CENNIK OPŁAT ZA BOKSY W 2024 ROKU
 
 | NUMER BOKSU | POWIERZCHNIA w m² | OPŁATA ROCZNA<br>w 2024 roku |
 | ---         | ---               | ---                          |
-| 1 - 24      | 0,5               | 190,00 zł                    |
-| 25 - 36     | 1                 | 240,00 zł                    |
-| 37 - 52     | 2                 | 420,00 zł                    |
-| 53 - 63     | 3                 | 720,00 zł                    |
-| Duże boksy  |                   | 1050,00 zł                   |
+| 1 - 24      | 0,5               | 190 zł                    |
+| 25 - 36     | 1                 | 240 zł                    |
+| 37 - 52     | 2                 | 420 zł                    |
+| 53 - 63     | 3                 | 720 zł                    |
+| Duże boksy  |                   | 1050 zł                   |
 
 1. Opłaty roczne za boksy należy wpłacać z góry do kasy Klubu lub na konto bankowe Klubu do ostatniego dnia lutego każdego roku.
 2. Nie uiszczenie opłaty w wyżej wyznaczonym terminie będzie się wiązało z utratą boksu.
