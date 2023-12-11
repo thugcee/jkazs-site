@@ -13,5 +13,5 @@ menu:
 - Wspomnienia z dawnych lat JK AZS
 - Ludek Mączka
 - Heniu Widera
-- Jan Waraczewski
+- [Jan Waraczewski](jan-waraczewski/)
 - Nasze filmy
