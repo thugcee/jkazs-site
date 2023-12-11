@@ -9,9 +9,9 @@ Oferujemy możliwość żeglugi na jachtach mieczowych i balastowych; współorg
 
 1. Przyjść do sekretariatu klubu, (Przestrzenna 9), pobrać _deklarację_ i wypełnić.
 2. Regularnie opłacać _składki_ członkowskie:
-   - studenci: 7,50 zł miesięcznie,
-   - pozostali 15 zł miesięcznie,
-   - wpisowe wynosi 500 zł (22,50zł dla studentów).
+   - studenci: 120 zł rocznie,
+   - pozostali 240 zł rocznie,
+   - wpisowe wynosi 500 zł (30 zł dla studentów).
 3. Członek klubu _może wstąpić do maszoperii_ jachtu klubowego, korzystać z infrastruktury klubu.
 4. Na członku klubu spoczywają _obowiązki_: przestrzeganie statutu klubu oraz odpracowywanie 10 godzin rocznie na rzecz klubu.
 5. Minimalna składka roczna członków wspierających wynosi 50 zł.
