@@ -7,11 +7,11 @@ Oferujemy możliwość żeglugi na jachtach mieczowych i balastowych; współorg
 
 ### Jak się zapisać? To bardzo proste
 
-1. Przyjść do sekretariatu klubu, (Przestrzenna 9), pobrać _deklarację_ i wypełnić.
-2. Regularnie opłacać _składki_ członkowskie:
+1. Przyjść do sekretariatu klubu (ul. Przestrzenna 9), pobrać deklarację i wypełnić.
+2. Po przyjęciu do klubu i opłaceniu wpisowego regularnie opłacać składki członkowskie:
    - studenci: 120 zł rocznie,
    - pozostali 240 zł rocznie,
    - wpisowe wynosi 500 zł (30 zł dla studentów).
-3. Członek klubu _może wstąpić do maszoperii_ jachtu klubowego, korzystać z infrastruktury klubu.
-4. Na członku klubu spoczywają _obowiązki_: przestrzeganie statutu klubu oraz odpracowywanie 10 godzin rocznie na rzecz klubu.
+3. Członek klubu może wstąpić do maszoperii jachtu klubowego, korzystać z infrastruktury klubu.
+4. Na członku klubu spoczywają obowiązki: przestrzeganie statutu klubu oraz odpracowywanie 10 godzin rocznie na rzecz klubu.
 5. Minimalna składka roczna członków wspierających wynosi 50 zł.
