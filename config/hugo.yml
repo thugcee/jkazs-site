@@ -1,0 +1,7 @@
+baseurl: https://jkazs.szn.pl/
+relativeURLs: true
+languageCode: pl-pl
+defaultContentLanguage: pl
+paginate: 10
+title: Jacht Klub AZS Szczecin
+noJSConfigInAssets: false
