@@ -10,6 +10,8 @@ menu:
 date: 2022-09-07T00:20:50+01:00
 ---
 
+## Opis
+
 Jacht Klub AZS usytuowany jest w południowej części Jeziora Dąbie. Port
 osłonięty od fali  i wiatru, stwarza komfortowe warunki dla postoju jachtów.
 
@@ -19,7 +21,7 @@ zakład żaglomistrzowski AST SAILS i warsztat szkutniczy. Wyprawa z Klubu do
 miasta jest bardzo łatwa. Korzystamy z komunikacji miejskiej. Przystanek
 autobusowy znajduje się niedaleko bramy wjazdowej.
 
-# Podstawowe dane
+## Podstawowe dane
 
 | Typ                 | Dane                                                                                                                             |
 |---                  |---                                                                                                                               |
