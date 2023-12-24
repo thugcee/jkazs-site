@@ -23,6 +23,17 @@ title: Cennik dla członków klubu
 1. Opłata roczna może być regulowana w dwóch ratach: I – do ostatniego dnia lutego, II – do 30 czerwca (w tab. raty), członkowie klubu, którzy przekroczą termin wpłaty półrocznej, płacą za dane półrocze opłaty miesięczne.
 1. Zniżka dla pracowników Zachodniopomorskiego Uniwersytetu Technologicznego – 20%.
 1. Opłaty miesięczne za postój w hali dla członków klubu: 14 zł/m² \+ opłata za energię elektryczną (wg wskazań podlicznika) + opłata za śmieci.
+1. Opłaty dla członków klubu przeprowadzających prace remontowe poza halą: opłata za energię elektryczną (wg wskazań podlicznika) + opłata za śmieci.
+1. Armatorzy jachtów stojących przez cały rok na lądzie są zobowiązani do uiszczania
+  opłaty postojowej za swój jacht z góry, tj. do ostatniego dnia lutego danego roku.
+  Opłaty liczymy w następujący sposób: stawka w zł x dł. jachtu x szer. jachtu x ilość
+  m-cy (nie mniej niż 100,00 zł/m-c). W przypadku przekroczenia terminu płatności dla
+  opłat rocznych obowiązują stawki ratalne i miesięczne. Członkowie klubu, którzy
+  przekroczą termin wpłaty półrocznej, płacą za dane półrocze opłaty miesięczne.
+  Wysokość opłat:
+    - płatność za cały rok do ostatniego dnia lutego danego roku – 12,00 zł za m 2 za m-c,
+    - płatność w dwóch ratach, tj. do ostatniego dnia lutego – I rata, i do 30 czerwca – II rata – 14,00 zł za m 2 za m-c,
+    - płatność miesięczna (do 10 dnia każdego m-ca) – 18,00 zł za m 2 za m-c.
 
 ## CENNIK OPŁAT ZA BOKSY W 2024 ROKU
 

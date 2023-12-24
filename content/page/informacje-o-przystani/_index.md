@@ -77,9 +77,7 @@ Do 3h postój bezpłatny. Opłata postojowa za dobę zależna od długości jedn
 | parkowanie przyczepy podłodziowej do 6 m              | 15 zł / doba                                                                                                        |
 | parkowanie przyczepy podłodziowej powyżej 6 m         | 20 zł / doba                                                                                                        |
 | korzystanie z pralki                                  | 20 zł / sztuka                                                                                                      |
-| postój na lądzie obcych jednostek (do remontu)        | 24 zł/m² \+ VAT miesięcznie + opłata za energię elektryczną (wg wskazań podlicznika) + opłata za śmieci             |
-| miejsce przy kei na postój zimowy (w trakcie remontu) | ceny negocjowane + energia elektryczna z narzutem 50% (lub wg podlicznika) + opłata za śmieci                       |
-| opłaty za postój w hali                               | 24 zł/m² \+ VAT miesięcznie + opłata za energię elektryczną (wg wskazań podlicznika) + opłata za śmieci             |
+| postój obcych jednostek (do remontu) na lądzie, przy kei i w hali | ceny ustalane indywidualnie + opłata za energię elektryczną (wg wskazań podlicznika) + opłata za śmieci |
 
 Szczegółowe informacje w biurze klubu.
 
