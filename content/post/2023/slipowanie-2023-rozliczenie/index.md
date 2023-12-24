@@ -5,7 +5,6 @@ date: 2023-11-20 00:00:00+0000
 image: zima-w-tle-azs.jpg
 categories:
     - Sprawy klubowe
-weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
 
 Koszty slipowania zostały rozliczone i rozesłane drogą mailową, udostępnione na fb oraz w biurze klubu.
