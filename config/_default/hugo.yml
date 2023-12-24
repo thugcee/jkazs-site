@@ -1,12 +1,43 @@
 baseurl: https://jkazs.szn.pl/
 relativeURLs: true
-languageCode: pl-pl
-defaultContentLanguage: pl
 paginate: 10
 title: Jacht Klub AZS Szczecin
-hasCJKLanguage: false
-security:
-  funcs:
-    getenv:
-      - ^HUGO_
-      - ^WC_
+
+build:
+  noJSConfigInAssets: true
+
+defaultContentLanguageInSubdir: false
+defaultContentLanguage: pl
+languages:
+  pl:
+    languageName: Polski
+    title: Jacht Klub AZS Szczecin
+    weight: 1
+  de:
+    languageName: Deutsch
+    title: Jacht Klub AZS Szczecin
+    weight: 2
+    params:
+      sidebar:
+        subtitle: Aktuelle und historische Informationen zum Verein. Der vollständige Inhalt ist nur auf Polnisch verfügbar.
+    menu:
+      main:
+        - identifier: stara-strona
+          name: Alte Website
+          url: /stara-strona
+          params:
+            icon: snowflake
+  en:
+    languageName: English
+    title: Jacht Club AZS Szczecin
+    weight: 3
+    params:
+      sidebar:
+        subtitle: Current and historical information about the Club. Full content is available in Polish only.
+    menu:
+      main:
+        - identifier: stara-strona
+          name: The Old WWW Page
+          url: /stara-strona
+          params:
+            icon: snowflake
