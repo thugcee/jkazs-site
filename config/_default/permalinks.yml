@@ -1,1 +1,1 @@
-post: /post/:year/:month/:slug/
+post: /post/:year/:slug/
