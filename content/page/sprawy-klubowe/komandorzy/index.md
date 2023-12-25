@@ -1,5 +1,6 @@
 ---
 title: Komandorzy JK AZS
+hidden: true
 ---
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |

@@ -1,6 +1,7 @@
 ---
 title: Członkowie honorowi
 date: 2022-12-04
+hidden: true
 ---
 **KONSTANTY MACIEJEWICZ** 17.03.1958 (dyr. PSM Szczecin)<br>
 **KAZIMIERZ HASKA** 17.03.1958(Prezes-senior Sekcji Żeglarskiej AZS)<br>

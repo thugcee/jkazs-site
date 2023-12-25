@@ -1,6 +1,7 @@
 ---
 title: Jak zostać członkiem klubu
 date: 2022-12-04
+hidden: true
 ---
 **Jacht Klub AZS** zaprasza studentów i młodzież szkół średnich; żeglarzy i chętnych do uprawiania żeglarstwa, do przyłączenia się do nas.
 Oferujemy możliwość żeglugi na jachtach mieczowych i balastowych; współorganizowania rejsów po Jeziorze Dąbskim, po Zalewie Szczecińskim, rejsów morskich i oceanicznych. Tu poznasz ciekawych ludzi, wielu znanych i uznanych żeglarzy.

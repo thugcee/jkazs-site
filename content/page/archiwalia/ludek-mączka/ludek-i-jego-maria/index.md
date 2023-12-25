@@ -2,6 +2,7 @@
 title: Ludek i jego "Maria"
 date: 2022-12-11
 layout: single
+hidden: true
 ---
 
 ![od lewej: Wojciech Jacobson, Zygmunt Biernacik, Ludomir Mączka](maria1.jpg)

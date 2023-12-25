@@ -1,5 +1,6 @@
 ---
-title: Cennik dla członków klubu
+title: Opłaty dla członków klubu
+hidden: true
 ---
 
 ## Cennik opłat za postój jachtów w 2024 roku

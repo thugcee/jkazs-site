@@ -2,6 +2,7 @@
 title: Ludojad wychodzi w morze
 date: 2022-12-11
 layout: single
+hidden: true
 ---
 
 ```

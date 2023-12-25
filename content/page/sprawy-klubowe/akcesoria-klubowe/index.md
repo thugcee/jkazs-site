@@ -1,6 +1,7 @@
 ---
 title: Akcesoria klubowe
 date: 2022-12-04
+hidden: true
 ---
 
 Zapraszamy członków klubu do zakupu klubowych akcesoriów:
