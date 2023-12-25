@@ -1,12 +1,10 @@
 ---
 title: Przydatne linki
 links:
-  - title: RODO
-    description: Informacja na temat przetwarzania danych osobowych
-    website: https://jkazs.szn.pl/stara-strona/rodo.html
   - title: Zeszyty żeglarskie
     description: Niezależne wydawnictwo Zenona Szostaka
     website: https://zeszytyzeglarskie.pl/
+    image: zeszyty.jpg
   - title: KWR
     description: Informacje o formule pomiarowej KWR
     website: https://jkazs.szn.pl/stara-strona/content/kwr-info.html
