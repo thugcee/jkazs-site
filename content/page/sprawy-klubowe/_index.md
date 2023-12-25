@@ -12,6 +12,7 @@ menu:
 - [Komandorzy](komandorzy)
 - [Członkowie honorowi](członkowie-honorowi/)
 - [Jak zostać członkiem klubu](jak-zostać-członkiem)
+- [RODO](rodo)
 - [Opłaty dla członków klubu](opłaty-dla-członków/)
 - [Akcesoria klubowe](akcesoria-klubowe/)
 - [Na wiecznej wachcie](https://jkazs.szn.pl/stara-strona/content/na-wiecznej-wachcie.html)
