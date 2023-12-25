@@ -1,5 +1,7 @@
 ---
 title: Herzlich willkommen
+hidden: true
+draft: true
 menu:
     main: 
         weight: 200
