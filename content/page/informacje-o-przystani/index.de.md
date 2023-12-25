@@ -1,13 +1,13 @@
 ---
 title: Informationen zum Yachthafen und + Gästehaltestellen
 layout: single
-image: SZCZECIN_JKAZS_PLAN_PRZYSTANI.jpg
+image: jkazs-map-osm-copped-small-square.png
 menu:
-    main: 
+    main:
         weight: 2
         params:
             icon: beach
-date: 2022-09-07T00:20:50+01:00
+date: 2023-09-07T00:20:50+01:00
 ---
 
 ## Beschreibung
@@ -15,6 +15,8 @@ date: 2022-09-07T00:20:50+01:00
 Der AZS Yacht Club befindet sich im südlichen Teil des Dąbie-Sees. Der vor Wellen und Wind geschützte Hafen schafft komfortable Bedingungen zum Anlegen von Yachten.
 
 Im ersten Stock des Clubgebäudes gibt es eine TAVERNE und alles, was Sie brauchen, um Kalorien und Durst aller Art zu stillen. Vor Ort gibt es eine Segelwerkstatt von AST SAILS und eine Bootsbauwerkstatt. Vom Club in die Stadt zu gelangen ist sehr einfach. Wir nutzen öffentliche Verkehrsmittel. Die Bushaltestelle befindet sich in der Nähe des Eingangstors.
+
+![Plan](jkazs-map-osm-copped.png)
 
 ## Grundinformationen
 

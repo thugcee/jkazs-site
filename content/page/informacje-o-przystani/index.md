@@ -1,13 +1,14 @@
 ---
 title: Informacje o przystani i postoje gościnne
 layout: single
-image: SZCZECIN_JKAZS_PLAN_PRZYSTANI.jpg
+image: jkazs-map-osm-copped-small-square.png
 menu:
-    main: 
+    main:
         weight: 2
         params:
             icon: beach
 date: 2022-09-07T00:20:50+01:00
+weight: 1
 ---
 
 ## Opis
@@ -20,6 +21,8 @@ potrzebne do uzupełnienia kalorii i pragnienia różnej postaci. Na miejscu jes
 zakład żaglomistrzowski AST SAILS i warsztat szkutniczy. Wyprawa z Klubu do
 miasta jest bardzo łatwa. Korzystamy z komunikacji miejskiej. Przystanek
 autobusowy znajduje się niedaleko bramy wjazdowej.
+
+![Plan przystani](jkazs-map-osm-copped.png)
 
 ## Podstawowe dane
 
@@ -42,8 +45,6 @@ Położenie na mapach: [OpenStreetMap](https://www.openstreetmap.org/node/239625
 ## Warunki postoju
 
 Do 3h postój bezpłatny. Opłata postojowa za dobę zależna od długości jednostki.
-
-[Rezerwacja postoju gościnnego.](rezerwacja-postoju-gościnnego)
 
 ### Cennik opłat za postój jachtów gościnnych w trakcie sezonu 2023 roku
 
@@ -83,8 +84,27 @@ Do 3h postój bezpłatny. Opłata postojowa za dobę zależna od długości jedn
 
 Szczegółowe informacje w biurze klubu.
 
-### Usługi dostępne w obrębie przystani
+## Usługi dostępne w obrębie przystani
 
 Dźwig do stawiania masztów, tawerna, warsztat szkutniczy, żaglownia AST Sails na miejscu, stacja paliw 300 m, sklep spożywczy: 3 km, sklep żeglarski 100 m.
 
 **Obowiązuje zakaz slipowania** na slipie metalowym jachtów na przyczepkach, skuterów i motorówek.
+
+## Rezerwacja postoju gościnnego
+
+Choć praktycznie nie zdarza się, żebyśmy musieli z powodu braku miejsc odmówić
+komuś postoju gościnnego na naszej przystani, wychodzimy naprzeciw oczekiwaniom
+tych z Państwa, którzy pragną zawczasu miejsce postoju gościnnego zarezerwować.
+Równocześnie informujemy, że **nie dysponujemy wolnymi miejscami
+rezydenckimi**.
+
+W sytuacji, gdy jesteście Państwo zainteresowani **rezerwacją miejsca**,
+ustaleniem terminu kładzenia/stawiania masztu itp., prosimy o przesłanie swoich
+oczekiwań na adres e-mail:
+**[booking.azs@gmail.com](mailto:booking.azs@gmail.com)**. Potwierdzenie
+rezerwacji powinniście Państwo otrzymać najpóźniej najbliższego dnia roboczego
+(biuro czynne jest w do godziny 16:00).
+
+W sytuacjach pilnych, kiedy np. chcecie Państwo upewnić się, że możliwy będzie
+postój w ciągu nadchodzących godzin, zachęcamy do kontaktu telefonicznego z
+Bosmanem: **+48 600 233 221**.
