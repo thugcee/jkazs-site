@@ -1,4 +1,2 @@
 imports:
   - path: github.com/CaiJimmy/hugo-theme-stack/v3
-  # - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify
-  # - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-bootstrap/v5
