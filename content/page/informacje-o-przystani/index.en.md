@@ -25,15 +25,15 @@ corner but to get there you have to leave through the main gate at west.
 
 ## Basic data
 
-| Type | Data |
-|--- |--- |
-| Address | Jacht Klub AZS Szczecin <br/> ul. Przestrzenna 9 <br/> 70-800 Szczecin |
-| Email | jkazs.szn@gmail.com |
-| Office phone number | + 48 91 461 27 34 |
-| Telephone to the boatswain | +48 600 233 221 |
-| Office opening hours | MONDAY 9.00 - 15.30 <br/> TUESDAY 9.00 - 17.30 <br/> WEDNESDAY 9.00 - 18.00 <br/> THURSDAY 9.00 - 17.30 <br/> FRIDAY 9.00 - 16.30 |
-| Tax Identification Number | 955-00-05-467 |
-| Account | BOŚ S.A. O/Szczecin<br/>92 1540 1085 2098 5313 3504 0001 |
+| Type                       | Data                                                                                                                              |
+|---                         |---                                                                                                                                |
+| Address                    | Jacht Klub AZS Szczecin <br/> ul. Przestrzenna 9 <br/> 70-800 Szczecin                                                            |
+| Email                      | jkazs.szn@gmail.com                                                                                                               |
+| Office phone number        | + 48 91 461 27 34                                                                                                                 |
+| Telephone to the boatswain | +48 600 233 221                                                                                                                   |
+| Office opening hours       | MONDAY 9.00 - 15.30 <br/> TUESDAY 9.00 - 17.30 <br/> WEDNESDAY 9.00 - 18.00 <br/> THURSDAY 9.00 - 17.30 <br/> FRIDAY 9.00 - 16.30 |
+| Tax Identification Number  | 955-00-05-467                                                                                                                     |
+| Account                    | BOŚ S.A. O/Szczecin<br/>92 1540 1085 2098 5313 3504 0001                                                                          |
 
 ## Location
 
@@ -46,16 +46,16 @@ Free parking for up to 3 hours. The parking fee per day depends on the length of
 
 ### Price list of fees for the berthing of guest yachts during the 2023 season
 
-| Length | Price |
-|--- |--- |
-| up to 5.99 m | PLN 55 / day |
-| 6-7.99 m | PLN 60 / day |
-| 8-9.99 m | PLN 70 / day |
-| 10-11.99 m | PLN 80 / day |
-| 12-13.99 m | PLN 90 / day |
-| 14-15.99 m | PLN 100 / day |
-| 16-17.99 m | PLN 120 / day |
-| over 18 m | price negotiated |
+| Length       | Price            |
+|---           |---               |
+| up to 5.99 m | PLN 55 / day     |
+| 6-7.99 m     | PLN 60 / day     |
+| 8-9.99 m     | PLN 70 / day     |
+| 10-11.99 m   | PLN 80 / day     |
+| 12-13.99 m   | PLN 90 / day     |
+| 14-15.99 m   | PLN 100 / day    |
+| 16-17.99 m   | PLN 120 / day    |
+| over 18 m    | price negotiated |
 
 ### Additional fees
 
@@ -65,19 +65,19 @@ Free parking for up to 3 hours. The parking fee per day depends on the length of
 
 ### Other fees
 
-| Genus | Price |
-|--- |--- |
-| camping car | PLN 100 / day |
-| car with camping trailer | PLN 100 / day |
-| 1-2 person tent | PLN 35 / day |
-| 3-6 person tent | PLN 50 / day |
-| stay for 1 person | PLN 40 / day |
-| stay of 1 child up to 13 years of age | PLN 25 / day |
-| dog stay | PLN 20 / day |
-| parking a car without a badge | PLN 15 / day |
-| parking of a boat trailer up to 6 m | PLN 15 / day |
-| parking a boat trailer over 6 m | PLN 20 / day |
-| using the washing machine | PLN 20 / piece |
+| Genus                                                                            | Price                                                                                           |
+|---                                                                               |---                                                                                              |
+| camping car                                                                      | PLN 100 / day                                                                                   |
+| car with camping trailer                                                         | PLN 100 / day                                                                                   |
+| 1-2 person tent                                                                  | PLN 35 / day                                                                                    |
+| 3-6 person tent                                                                  | PLN 50 / day                                                                                    |
+| stay for 1 person                                                                | PLN 40 / day                                                                                    |
+| stay of 1 child up to 13 years of age                                            | PLN 25 / day                                                                                    |
+| dog stay                                                                         | PLN 20 / day                                                                                    |
+| parking a car without a badge                                                    | PLN 15 / day                                                                                    |
+| parking of a boat trailer up to 6 m                                              | PLN 15 / day                                                                                    |
+| parking a boat trailer over 6 m                                                  | PLN 20 / day                                                                                    |
+| using the washing machine                                                        | PLN 20 / piece                                                                                  |
 | parking of foreign vessels (for renovation) on land, at the quay and in the hall | prices determined individually + electricity fee (according to submeter readings) + garbage fee |
 
 Detailed information at the club office.
