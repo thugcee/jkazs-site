@@ -28,6 +28,28 @@ ul {
   font-weight: bold;
 }
 
+.first {
+  text-indent: 0;
+  margin-top: .2rem;
+  margin-bottom: 0;
+}
+
+.indent {
+  text-indent: 2rem;
+  margin-top: .2rem;
+  margin-bottom: 0;
+}
+
+.article-content blockquote {
+  font-family: serif;
+}
+
+
+section img {
+  margin: 1rem;
+}
+
 :root {
   --tr-even-background-color: #f9f9fc;
+  --blockquote-background-color: rgb(247, 240, 240);
 }
