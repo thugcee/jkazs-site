@@ -10,8 +10,9 @@ menu:
 ---
 
 - [Kalendarium klubu](kalendarium/)
-- [Kalendarium regtowe](kalendarium-regatowe/)
-- [Wspomnienia z dawnych lat JK AZS](https://jkazs.szn.pl/stara-strona/content/wspomnienia-z-dawnych-lat-jk-azs.html)
+- [Kalendarium regatowe](kalendarium-regatowe/) - historia sportowa Jacht Klubu AZS Szczecin.
+- [Wspomnienia z dawnych lat JK AZS](./wspomnienia/)
+- [Wspomnienia z dawnych lat JK AZS (stara strona)](https://jkazs.szn.pl/stara-strona/content/wspomnienia-z-dawnych-lat-jk-azs.html)
 - Postaci
   - [Ludek Mączka](ludek-mączka/)
   - [Heniu Widera](https://jkazs.szn.pl/stara-strona/content/gawot.html)

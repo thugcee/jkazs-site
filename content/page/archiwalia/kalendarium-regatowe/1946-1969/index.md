@@ -1,23 +1,27 @@
 ---
 title: "Kalendarium regatowe 1946-1969"
-description: 
+description: Historia sportowa Jacht Klubu AZS Szczecin. Lata 1946-1969.
 date: 2024-02-17T01:20:17+01:00
-hidden: false
+hidden: true
 ---
 
-Historia sportowa Jacht Klubu AZS Szczecin w daty, wydarzenie, jachty, osoby
+Historia sportowa Jacht Klubu AZS Szczecin. W daty, wydarzenie, jachty, osoby
 ujęta, spisana i przedstawiona dla przypomnienia dni chwały i zwycięstw, jak i
 „ku pokrzepieniu serc” na przyszłe victorie.
 
 Opracowanie: ZS
 
+Plik oryginalny: [Regaty_1946-1969.pdf](Regaty_1946-1969.pdf)
+
+## Lata 194x
+
 | Data | Opis |
 |--- | ---|
-| 12.XI.1946 | Powstaje sekcja żeglarska AZS przy Akademii Handlowej; inicjator, założyciel i pierwszy kierownik sekcji – Feliks Wodzyński. |
+| 12.XI.1946 | Powstaje sekcja żeglarska AZS przy Akademii Handlowej; inicjator, założyciel i pierwszy kierownik sekcji – Feliks Wodzyński.
 | 02.III.1947 | Sekcja AZS przerejestrowuje się na Oddział AZM; prezes – Feliks Wodzyński, techniczny – Mieczysław Babczyński, administracyjny – Bernard Quandt; kurator – prof. Juliusz Mikołajski; dr Pisarek (kto to?); 200 członków w tym 26. ze stopniami żeglarskimi (2 jsm, 8 żm, 6 sś, 10 żś).
 | 24.VI.1947 | WUKFiPW przydziela Oddziałowi AZM 5 wraków jachtów (Maciek, Kaczorek, Meduza?, Swarożyc?, Świtezianka?).
 | 10.IV.1949 | Przymusowe połączenie AZM, AZS i sekcji sportowej Bratniej Pomocy; powstaje Akademickie Zrzeszenie Sportowe. 10.IV w Szczecinie – w Warszawie 2.IV. były krajowe zjazdy AZS, AZM i podjęły uchwałę o rozwiązaniu się; 3.IV. zjazd założycielski Zrzeszenia (W-wa, Akademia Medyczna).
-| VII. | i VIII.1949 Obóz AZS (ogólnopolski) w Trzebieży. KWŻ Władysław Stanilewicz, I turnus – Ziemowit Ostrowski, Jerzy Szałajko?, II turnus – Wojciech Jacobson, Włodzimierz Bąkowski, Ludomir Mączka, Ireneusz Kurzawa; kadra: Michał Domagała – ideologiczny, Bolesław Trochimowicz – administracyjny, bosman – Jerzy Borowiec. Jachty: Szkwał II z Gdańska, ze Szczecina z AZS: motorówka Świtezianka, Tuńczyk, Przygoda, Meduza, Kaczorek, Maciek.
+| VII. i VIII.1949 | Obóz AZS (ogólnopolski) w Trzebieży. KWŻ Władysław Stanilewicz, I turnus – Ziemowit Ostrowski, Jerzy Szałajko?, II turnus – Wojciech Jacobson, Włodzimierz Bąkowski, Ludomir Mączka, Ireneusz Kurzawa; kadra: Michał Domagała – ideologiczny, Bolesław Trochimowicz – administracyjny, bosman – Jerzy Borowiec. Jachty: Szkwał II z Gdańska, ze Szczecina z AZS: motorówka Świtezianka, Tuńczyk, Przygoda, Meduza, Kaczorek, Maciek.
 | 18.IX.1949 | Jesienne Międzyklubowe Regaty Żeglarskie (Pierwsze Regaty Jesienne na Jez. Dąbskim); w kategorii „jole o dużej pow. żagla”: Przygoda sternik: Jerzy Kraszewski załoga: Zdzisław Michalski, ?? - 2m, w kat. jachty kilowe: Tuńczyk sternik: Jerzy Szałajko załoga: Jerzy Borowiec, Wojciech Jacobson?, Kazimierz Pogonowski - 1m, Maciek sternik: Jan Praetzl załoga Ziemowit Ostrowski, ??, - 5m „Błękitna Wstęga Jeziora Dąbskiego” – Wicher z Yacht Klubu Polski sternik: Ada Kościńska załoga: Zbigniew Kościński, Maciej Karwowski, Jerzy Kerner; drugi był Tuńczyk.
 | 24.VI.1950 | Regaty na Odrze przy Wałach Chrobrego (wokół Wyspy Grodzkiej, dystans ok. 4,5 Mm), z okazji „Dni Morza”; Tuńczyk załoga: J. Borowiec, …– 1m, Ewa 2 – 2m; startowało 14 jachtów.
 | 29.VI.1950 | AZS organizuje regaty na Zalewie Szczecińskim; rozpoczęte, ale przerwane z powodu braku wiatru; jachty odholowano do Szczecina.
@@ -32,7 +36,7 @@ Opracowanie: ZS
 | 23.VII.1952 | Regaty Etapowe (Zalew Szcz.); Witeź II – 3m, Kania, Swantewit, Przodownik.
 | VIII.1952 | Ograniczenie przez Wojsko (WOP) pływań żeglarskich tylko do Jeziora Dąbskiego; sytuacja ta trwała do czerwca 1963r.
 | 15-17.VIII.1952 | Mistrzostwa Polski Jachtów Kilowych (Gdynia); Kazimierz Haska, Kazimierz Rypiński, Czesław Skibicki, Stefan Lewicki – 2m (regaty przesiadkowe).
-| X. | 1952 IV Regaty Jesienne; „Błękitna Wstęga Jeziora Dąbie” – Krzysztof Jaworski na Swantewicie załoga: Józef Demczuk, ?? … ; w kl. P-7: Janusz Kędzierski – 1m.
+| X.1952 | IV Regaty Jesienne; „Błękitna Wstęga Jeziora Dąbie” – Krzysztof Jaworski na Swantewicie załoga: Józef Demczuk, ?? … ; w kl. P-7: Janusz Kędzierski – 1m.
 | 1953 | Regaty Etapowe (Zalew Szcz). Kania K. Jaworski, A.J. Pisz, J. Smagacz, E. Ryżewski.
 | 20-21.IX.1953 | II Żeglarskie Mistrzostwa Polski Jachtów Kilowych w Gdyni(Sopot); K. Jaworski – 1m (Mistrz Polski); Maryla Grochowska – 1m (Mistrzyni Polski) (LPŻ).
 | 1953 | Ogólnopolskie zebranie AZS, powołano Radę Żeglarską, pierwszym przewodniczącym został Jerzy Borowiec.
@@ -69,7 +73,7 @@ Opracowanie: ZS
 | 29.IX.1956 | VI Regaty Przyjaźni I Międzynarodowe; z NRD 5 jachtów – z akademickich ośrodków Greifswaldu i Rostocku; ogółem 42 jachty; kl. Słonka: Marian Oleksy – 1m, Andrzej Porada – 2m, Michał Domagała – 4m; kl. H: Bolesław Lach – 3m, Marita Kremy – 4m; kl. Star: Jerzy Pisz – 1m; kl. jachty kilowe 5-6,99KR: Kania sternik Stanisław Tomaszewski – 2m?; kl. jachty powyżej 9KR: Swantewit sternik W. Jacobson – 1m.
 | 12.XII.1956 | Walne Zebranie Założycielskie JK AZS; Prezes wybrany - Zimowit Ostrowski.
 | 2.VII.1957 | I Wojewódzkie Mistrzostwa Jachtów Kilowych; Z. Ostrowski - 2m.
-| 21.X | .1957 Międz. Regaty Przyjaźni (Zalew Szcz.): kl. Słonka: Marian Oleksy – 1m/7, Jędrzej Porada – 2m/7, Bolesław Lach – 3m, Marita Kremky – 4m; kl. Star: Jerzy Pisz – 1m; kl. 5,6-7 KR: Kania Stanisław Tomaszewski – 2m; kl. pow. 9KR: Swantewit W. Jacobson, Ewa Kopczyńska-Jacobson… – 2m.
+| 21.X.1957 |  Międz. Regaty Przyjaźni (Zalew Szcz.): kl. Słonka: Marian Oleksy – 1m/7, Jędrzej Porada – 2m/7, Bolesław Lach – 3m, Marita Kremky – 4m; kl. Star: Jerzy Pisz – 1m; kl. 5,6-7 KR: Kania Stanisław Tomaszewski – 2m; kl. pow. 9KR: Swantewit W. Jacobson, Ewa Kopczyńska-Jacobson… – 2m.
 | VI.1958 | Mistrzostwa Okręgu Kobiet; kl. Finn: Ewa Jacobson 1m.
 | 15.VI.1958 | Mistrzostwa Okręgu; kl. Finn: W. Jacobson – 1m, w kl. Słonka: J. Porada – 1m/4, kl. Star (Centaur): B. Fijałkowski, St. Tomaszewski – 1m.
 | 11.VII.1958 | „Ostseewoche” Regatten vor Warnemünde (Morze Bałtyckie); kl. 9,3 KR: Swantewit kpt. B. Pierożek, załoga: B. Fijałkowski I of, A. Lewicki, H. Demczuk, T. Oleśkiewicz – 2m/9.
@@ -80,7 +84,7 @@ Opracowanie: ZS
 | 17-23.VIII.1958 | I Międzynarodowe Regaty o Puchar Gryfa Pomorskiego (Morze Bałtyckie); Swantewit kpt. Bogumił Pierożek, załoga: Bogdan Fijałkowski I of, Józef Demczuk, Zdzisław Langiewicz, Wojciech Pluciński - złamanie masztu; z Trelleborga wraca na prowizorycznym takielunku. Kania – 3m (?).
 | VIII.1958 | Międzynarodowy Tydzień Zatoki Gdańskiej; Swantewit.
 | 13-14.IX.1958 | III Międzynarodowe Regaty Przyjaźni (Zalew Szcz.); kl. >9KR: Swantewit sternik B. Fijałkowski, załoga: Witold Kuźniar, Stanisław Tomaszewski, Maciej Wydrowski, Zdzisław Waśkiewicz – 1m.
-| 28.IX. | 1958 Regaty Jesienne (Jezioro Dąbskie): kl. Słonka: Jerzy Zuch - 1m, J. Porada – 2m/4; kl. Finn: Witold Kuźniar – 1m; kl. H: Aleksandra Buszkiewicz – 1m; jachty kilowe: kl. 5-6,99KR: Kania – 1m; kl. ponad 9KR: Swantewit sternik B. Fijałkowski, załoga: Stanisław Tomaszewski, Zdzisław Waśkiewicz, Tadeusz Oleśkiewicz, Eugeniusz Ryżewski, Maciej Wydrowski – 1m.
+| 28.IX.1958 | Regaty Jesienne (Jezioro Dąbskie): kl. Słonka: Jerzy Zuch - 1m, J. Porada – 2m/4; kl. Finn: Witold Kuźniar – 1m; kl. H: Aleksandra Buszkiewicz – 1m; jachty kilowe: kl. 5-6,99KR: Kania – 1m; kl. ponad 9KR: Swantewit sternik B. Fijałkowski, załoga: Stanisław Tomaszewski, Zdzisław Waśkiewicz, Tadeusz Oleśkiewicz, Eugeniusz Ryżewski, Maciej Wydrowski – 1m.
 | 1958 | Okręgowy związek żeglarski sprowadza dokumentację Cadeta.
 | 13.V.-12.VII.1959 | Rejs do Islandii; Witeź II kpt. E. M. Żychiewicz, załoga: L. Mączka, M. Gerlach, St. Tomaszewski
 | VI.1959 | Swantewit na Ostseewoche; awaria żagli, wycofanie przed dopłynięciem na regaty.
@@ -90,6 +94,11 @@ Opracowanie: ZS
 | 12.VIII-19.IX.1959 | Rejs „Dookoła Wielkiej Brytanii” (przez kanały: Kaledoński i Crinan); Witeź II kpt. Bogumił Pierożek, załoga: Bogdan Fijałkowski I of. (w dniu 19.08.1959 ulega wypadkowi i pozostaje w szpitalu w Penzance (Kornwalia)), Józef Demczuk, Hanna Demczuk, Aleksandra Buszkiewicz, Jerzy Janiszewski.
 | 1959 | Regaty Jesienne; „Błękitna Wstęga Jeziora Dąbie” – Swantewit Wojciech Jacobson. kl. Słonka: Maciej Wydrowski – 1m; kl. 5-7 KR: Kania Stachowicz – 1m; kl. >9KR: Swantewit W. Jacobson – 1m
 | 1959 | statystyka żeglarstwa w AZS: 2 kluby i 6 sekcji żeglarskich; AKM 269osób, JK AZS 139, Gliwice 23, Rokietnica 17, Kraków 83, Poznań 142, Toruń 49, Wrocław 180.
+
+## Lata 195x
+
+| Data | Opis |
+|--- | ---|
 | 20.II.1960 | XXIII Sejmik PZŻ; Z. Ostrowski, J. Kraszewski w Zarządzie PZŻ.
 | V.1960 | Na Jez. Dąbskim (Małym) odbywają się pierwsze w Polsce regaty w kl. Cadet; A. Gedymin (17- letni uczeń Technikum Łączności z klubu MKS) – 1m, Maciej Wydrowski – 2m; regaty w bardzo silnym wietrze, aż sześć jednostek wywróciło się, jeden zawodnik samodzielnie postawił Cadeta i żeglował dalej.
 | 20-24.VI.1960 | III Międzynarodowe Regaty o Puchar Gryfa Pomorskiego; kl…: Swantewit kpt. K. Haska, B. Fijałkowski I of, Stanisław Tomaszewski, Stanisław Szydłowski, Wojciech Jacobson -1m -1m, Witeź II kpt. E. M. Żychiewicz, załoga: Maria Gerlach, Ewa Jacobson, Eugeniusz Ryżewski, Karol Piechowski, Czesław Skrzypiński; kl. Omega: A. Buszkiewicz (jedyna w regatach sterniczka) -1m; Star: Zdz. Langiewicz - 1m (wygrał wszystkie 5 biegów).
@@ -107,7 +116,7 @@ Opracowanie: ZS
 | 18-19.08.1962 | Puchar Cadetów (jez. Miedwie); Cadet (Dalia 14): załoga: M. Jósewicz, Bohdan Rosiak – 1m/2.
 | 09-19.IX.1962 | Rejs do Sztokholmu i Helsinek; Witeź II kpt. Bogdan Fijałkowski (Eugeniusz Ryżewski I of, R. Jaroszek,) – płynąc do Helsinek, podczas bardzo silnego sztormu, jacht zatonął w szkierach koło Lāngholmen.
 | 1962 | Mistrzostwa Szczecina; kl. Cadet: Andrzej Pęcherzewski -1m; kl. Finn: W. Wejer – 1m; kl. Słonka: St. Szołkowski – 1m, Al. Salomon – 2m.
-| 15 | VI 1963 Mistrzostwa Okręgu Szczecińskiego: kl. Słonka: Jędrzej Porada – 1m/3.
+| 15.VI.1963 | Mistrzostwa Okręgu Szczecińskiego: kl. Słonka: Jędrzej Porada – 1m/3.
 | 1963 | Mistrzostwo Okręgu Szczecińskiego; kl. Cadet: Andrzej Pęcherzewski – 1m.
 | 21-22.IX.1963 | VIII Międzynarodowe Regaty Przyjaźni; kl. Słonka (Alga PZ 150): A. Pęcherzewski, M. Jósewicz – 1m; kl. Finn: W. Wejer – 2m; sędzia główny Z. Ostrowski.
 | 1964 | Wybory Rady Żeglarskiej AZS; przewodniczący wybrany - Z. Ostrowski.
@@ -117,7 +126,7 @@ Opracowanie: ZS
 | 1964 | Mistrzostwa Szczecina; kl. Cadet: Andrzej Pęcherzewski, kl. Hornet: (PZ837) M. Jósewicz, Zdzisław Bendo(?) – 2m/11.
 | 23.V.1965 | Żeglarskie Mistrzostwa Okręgu Szczecińskiego Juniorów; kl. Hornet: Andrzej Wielopolski – 1m, Michał Jósewicz, Zdzisław Bendo – 2m/13; kl. OK.Dinghy: A. Pęcherzewski – 1m
 | 6.VI.1965 | Żeglarskie Mistrzostwa Okręgu Seniorów; kl Finn: Jan Bartosik – 1m, kl. Hornet: Andrzej Wielopolski – 1m, kl. Star: W. Jacobson – 1m
-| 29.VI.1965 | - 01.VII. 1966 Trener kadry żeglarskiej JK AZS Szczecin: Jędrzej Porada.
+| 29.VI.1965 - 01.VII.1966 | Trener kadry żeglarskiej JK AZS Szczecin: Jędrzej Porada.
 | 18-25.VII.1965 | Regaty Gryfa Pomorskiego (także ŻMP); kl. Star, Dragon, Folkboat; w kl. Folkboat: Portos kpt. Z. Ostrowski - 4m.
 | 2-8.VIII.1965 | Żeglarskie Mistrzostwa Polski Juniorów (Giżycko); kl. Hornet (Krab): M. Jósewicz, Zdz. Bendo? – 17m/38. 27.VIII-3.IX.1965? Morskie Regaty Turystyczne; kl. III IOR: Swantewit kpt. W. Jacobson - 1m; Józef Demczuk – 2m.
 | 4.IX.1965 | Regaty do Kołobrzegu; Nadir - 3m/8.
@@ -136,15 +145,13 @@ Opracowanie: ZS
 | 22-28.VII.1967 | AMP w Trzebieży.
 | 22-25.VII.1967 | Puchar MKS; kl. Star: Janusz Kędzierski - 4m, J. Zaremba – 7m/7; kl. Dragon: A. Rosner – 5m, Z. Ostrowski – 8m/9; kl. Folkboat: Z. Faberski – 2m, W. Zdrojewski – 3m, A. Buszkiewicz – 5m/8.
 | 26.VII-5.VIII.1967 | MŻMP (Świnoujście); kl. II RORC: Swantewit kpt. E. Ryżewski - 6m/18, Regaty Gryfa Pomorskiego - 15m/20; kl. Folkboat: Zb. Faberski – 1m/ (Mistrz Polski), W. Zdrojewski – 3m, A. Buszkiewicz – 6m/13.
-| 30.VII-5.VIII.1967 | VII Międzynarodowe Regaty o Puchar Gryfa Pomorskiego; kl. II RORC: Nadir kpt. A. Zamojski
-| - | 7/17m, Swantewit kpt. E. Ryżewski - 5m, Pegaz kpt. A. Lewicki - 6m; kl. Star: J. Kędzierski – 4m, J. Zaremba – 5m/7; kl. Dragon: Z. Ostrowski – 4m, A. Rosner – 7m/8; kl. Folkboat: Z. Faberski – 1m, W. Zdrojewski – 3m, A. Buszkiewicz – 6m/13.
+| 30.VII-5.VIII.1967 | VII Międzynarodowe Regaty o Puchar Gryfa Pomorskiego; kl. II RORC: Nadir kpt. A. Zamojski - 7/17m, Swantewit kpt. E. Ryżewski - 5m, Pegaz kpt. A. Lewicki - 6m; kl. Star: J. Kędzierski – 4m, J. Zaremba – 5m/7; kl. Dragon: Z. Ostrowski – 4m, A. Rosner – 7m/8; kl. Folkboat: Z. Faberski – 1m, W. Zdrojewski – 3m, A. Buszkiewicz – 6m/13.
 | 6-13.VIII.1967 | IV OS (Trzebież); kl. Finn: Zdzisław Owdziej - 22m, Andrzej Czubajko- 42m/54.
 | 3-9.IX.1967 | IV Etapowe Regaty Turystyczne; II RORC: Swantewit kpt. E. Ryżewski - 1m, Nadir kpt. A. Zamojski - 4m, Pegaz kpt. J. Janiszewski - 7m/10; kl. Folkboat: Atos M. Jósewicz, Zdz. Bendo (?) - 7m/12.
 | 3-9.IX.1967 | Regaty Turystyczne Świnoujście – Kołobrzeg; SG Z. Ostrowski.
 | 1967 | Mistrzostwo Szczecina; kl. Ok.Dinghy: Andrzej Pęcherzewski – 1m.; powołany do Kadry Narodowej, odznaczony dwoma kółkami olimpijskimi.
 | 3-14.VII.1968 | Pegaz na Ostseewoche, kpt. Z. Ostrowski; celem rejsu na zlecenie PZŻ była obserwacja kl. Dragon.
-| 21-25.VII.1968 | Puchar Morskiej Komisji Sportowej; kl. Star: J. Zaremba - 2m, J. Kędzierski
-| - | 4m/7; kl. Folkboat: W. Zdrojewski - 2m, B. Lach - 3m/4; kl. Dragon: Adam Lisiecki - 5m/6; SG Z. Ostrowski.
+| 21-25.VII.1968 | Puchar Morskiej Komisji Sportowej; kl. Star: J. Zaremba - 2m, J. Kędzierski - 4m/7; kl. Folkboat: W. Zdrojewski - 2m, B. Lach - 3m/4; kl. Dragon: Adam Lisiecki - 5m/6; SG Z. Ostrowski.
 | 22.VII.1968 | Morskie Żeglarskie Mistrzostwa Polski (Gdynia); kl. II RORC: Swantewit kpt. E. Ryżewski – 5m/24(5?), Pegaz kpt. W. Jacobson - 6m/24(5?)m.
 | 22.VII.1968 | Międzynarodowy Tydzień Zatoki Gdańskiej (Gdynia); kl. II RORC Pegaz kpt. W. Jacobson - 6m/24.
 | 26.VII.1968 | MŻMP i MTZG (Gdynia), SG Z. Ostrowski; Star: J. Kędzierski, (E. Hoffman) - 3m/10, Jerzy Zaremba (Zaręba?) - 7m/10, Dragon: A. Lisiecki, (Henryk Łukaszewski, Henryk Skowron)- 4m/7, Folkboat: B. Lach - 3m/7, W. Zdrojewski - 4m/7, Hornet; J. Szeliwiak, (Jan Kobylski)- 2m(3m/49 ?), Z. Jałtoszuk - 15m/61 (14m/49 ?).
@@ -155,7 +162,7 @@ Opracowanie: ZS
 | 1968 | 10-te miejsce w rocznej punktacji PZŻ za działalność regatową w klasach olimpijskich i przygotowawczych (w 1967 – 21. miejsce); 2-gie miejsce w rocznej punktacji PZŻ za działalność regatową jachtów morskich; zdobyty Puchar morskiej Komisji PZŻ; 1-sze miejsce w punktacji OSZŻ. Klub zorganizował (20-23.VII.) regaty morskie Świnoujście – Gdynia: 11 jachtów. Na 49 sędziów wojewódzkiego zespołu sędziowskiego 20-tu jest członkami JK AZS. Do Kadry Narodowej powołani zostali: w kl. Hornet: Jan Szeliwiak (z załogantem? Janem Kobylskim), w kl. Finn: Andrzej Czubajko, w kl. Dragon: Adam Lisiecki.
 | 25-31.VII.1969 | VIII Regaty Gryfa Pomorskiego; kl. II RORC: Swantewit kpt. E. Ryżewski – 9m/30; Pegaz kpt. Jerzy Madeja – 16m/30; kl. Folkboat: W. Zdrojewski – 1m/14.
 | 21-31.VII.1969 | Morskie Żeglarskie Mistrzostwa Polski (Świnoujście); kl. II RORC: Swantewit kpt. Eugeniusz Ryżewski – 6m/24, Pegaz kpt. J. Madeja – 13m/24.; SG Z. Ostrowski.
-| 25-31.VII | 1969 Żeglarskie Mistrzostwa Polski (Zalew Szcz, Trzebież); kl. Hornet: J. Szeliwiak - 5m/52; kl. Folkboat: W. Zdrojewski - 1m (Mistrz Polski); kl. FD: A. Wielopolski - 21m/27; kl. Finn: Z. Owdziej – 22m/35.
+| 25-31.VII.1969 | Żeglarskie Mistrzostwa Polski (Zalew Szcz, Trzebież); kl. Hornet: J. Szeliwiak - 5m/52; kl. Folkboat: W. Zdrojewski - 1m (Mistrz Polski); kl. FD: A. Wielopolski - 21m/27; kl. Finn: Z. Owdziej – 22m/35.
 | 31.VIII-8.IX.1969 | Regaty do Kołobrzegu; Pegaz kpt. W. Jacobson, Swantewit kpt. E. Ryżewski.
 | 1969 | Żeglarskie Akademickie Mistrzostwa Polski (Zalew Szcz, Trzebież).
 | 20-21.IX.1969 | XIV Regaty Przyjaźni (Trzebież); kl. OK. Dinghy: Dariusz Kłokocki – 2m, kl. Finn: L. Bartosik – 1m, T. Paterkowski – 2m; kl. Hornet: J. Kobylski, G. Waszkiewicz – 1m, Z. Jałtoszuk, A. Jeske – 2m; kl. Dragon: Sindbad Adam Lisiecki, Marek Stoeck, W. Podgórski – 2m/3; kl. Folkboat: Witold Zdrojewski, Wasylisa Zdrojewska, Alik Dudarenko – 1m. (w kl. II RORC : Enif – Kazimierz Jaworski JK „Pasat” – 1m, Delfin Krzysztof Jaworski MKS „Pogoń” – 2m).
