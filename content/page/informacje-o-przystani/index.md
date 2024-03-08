@@ -46,40 +46,40 @@ Położenie na mapach: [OpenStreetMap](https://www.openstreetmap.org/node/239625
 
 Do 3h postój bezpłatny. Opłata postojowa za dobę zależna od długości jednostki.
 
-### Cennik opłat za postój jachtów gościnnych w trakcie sezonu 2023 roku
+### Cennik opłat za postój jachtów gościnnych w trakcie sezonu 2024 roku
 
 | Długość        | Cena                      |
 |---             |---                        |
-| do 5,99 m      |            55 zł / dzień  |
-| 6-7,99 m       |            60 zł / dzień  |
-| 8-9,99 m       |            70 zł / dzień  |
-| 10-11,99 m     |            80 zł / dzień  |
-| 12-13,99 m     |            90 zł / dzień  |
-| 14-15,99 m     |           100 zł / dzień  |
-| 16-17,99 m     |           120 zł / dzień  |
+| do 5,99 m      |            65 zł / dzień  |
+| 6-7,99 m       |            70 zł / dzień  |
+| 8-9,99 m       |            80 zł / dzień  |
+| 10-11,99 m     |            90 zł / dzień  |
+| 12-13,99 m     |           105 zł / dzień  |
+| 14-15,99 m     |           120 zł / dzień  |
+| 16-17,99 m     |           145 zł / dzień  |
 | ponad 18 m     |         cena negocjowana  |
 
 ### Opłaty dodatkowe
 
- - media (woda, prąd) - 10 zł / dzień
- - prysznic - 10 zł / sztuka,
- - stawianie i kładzenie masztu – do 8 m – 90 zł, pow. 8 m – 110 zł
+ - media (woda, prąd) - 20 zł / dzień
+ - prysznic - 15 zł / sztuka,
+ - stawianie i kładzenie masztu – 120 zł
 
 ### Pozostałe opłaty
 
 | Rodzaj                                                | Cena                                                                                                                |
 |---                                                    |---                                                                                                                  |
-| samochód campingowy                                   | 100 zł / doba                                                                                                       |
-| samochód z przyczepą campingową                       | 100 zł / doba                                                                                                       |
-| namiot 1-2 osobowy                                    | 35 zł / doba                                                                                                        |
-| namiot 3-6 osobowy                                    | 50 zł / doba                                                                                                        |
-| pobyt 1 osoby                                         | 40 zł / doba                                                                                                        |
+| samochód campingowy                                   | 150 zł / doba                                                                                                       |
+| samochód z przyczepą campingową                       | 150 zł / doba                                                                                                       |
+| namiot 1-2 osobowy                                    | 40 zł / doba                                                                                                        |
+| namiot 3-6 osobowy                                    | 55 zł / doba                                                                                                        |
+| pobyt 1 osoby                                         | 45 zł / doba                                                                                                        |
 | pobyt 1 dziecka do lat 13                             | 25 zł / doba                                                                                                        |
 | pobyt psa                                             | 20 zł / doba                                                                                                        |
-| parkowanie samochodu bez znaczka                      | 15 zł / doba                                                                                                        |
-| parkowanie przyczepy podłodziowej do 6 m              | 15 zł / doba                                                                                                        |
-| parkowanie przyczepy podłodziowej powyżej 6 m         | 20 zł / doba                                                                                                        |
-| korzystanie z pralki                                  | 20 zł / sztuka                                                                                                      |
+| parkowanie samochodu bez znaczka                      | 20 zł / doba                                                                                                        |
+| parkowanie przyczepy podłodziowej do 6 m              | 20 zł / doba                                                                                                        |
+| parkowanie przyczepy podłodziowej powyżej 6 m         | 25 zł / doba                                                                                                        |
+| korzystanie z pralki                                  | 25 zł / sztuka                                                                                                      |
 | postój obcych jednostek (do remontu) na lądzie, przy kei i w hali | ceny ustalane indywidualnie + opłata za energię elektryczną (wg wskazań podlicznika) + opłata za śmieci |
 
 Szczegółowe informacje w biurze klubu.
