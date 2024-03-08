@@ -42,40 +42,40 @@ Die Yacht bleibt bis zu 3 Stunden kostenfrei. Die Parkgebühr pro Tag richtet si
 
 [Gästeparkplatzreservierung.](Gästeparkplatzreservierung)
 
-### Preisliste der Gebühren für das Anlegen von Gastyachten in der Saison 2023
+### Preisliste der Gebühren für das Anlegen von Gastyachten in der Saison 2024
 
 | Länge      | Preis              |
 |---         |---                 |
-| bis 5,99 m | 55 PLN / Tag       |
-| 6-7,99 m   | 60 PLN / Tag       |
-| 8-9,99 m   | 70 PLN / Tag       |
-| 10-11,99 m | 80 PLN / Tag       |
-| 12-13,99 m | 90 PLN / Tag       |
-| 14-15,99 m | 100 PLN / Tag      |
-| 16-17,99 m | 120 PLN / Tag      |
+| bis 5,99 m | 65 PLN / Tag       |
+| 6-7,99 m   | 70 PLN / Tag       |
+| 8-9,99 m   | 80 PLN / Tag       |
+| 10-11,99 m | 90 PLN / Tag       |
+| 12-13,99 m | 105 PLN / Tag       |
+| 14-15,99 m | 120 PLN / Tag      |
+| 16-17,99 m | 145 PLN / Tag      |
 | über 18 m  | Preis ausgehandelt |
 
 ### Zusätzliche Gebühren
 
-  - Nebenkosten (Wasser, Strom) - 10 PLN / Tag
-  - Dusche - 10 PLN / Stück,
-  - Aufstellen und Ablegen des Mastes – bis zu 8 m – 90 PLN, Fläche 8 m – 110 PLN
+  - Nebenkosten (Wasser, Strom) - 20 PLN / Tag
+  - Dusche - 15 PLN / Stück,
+  - Aufstellen und Ablegen des Mastes – 120 PLN
 
 ### Sonstige Gebühren
 
 | Gattung                                                                            | Preis                                                                          |
 |---                                                                                 |---                                                                             |
-| Campingwagen                                                                       | 100 PLN / Tag                                                                  |
-| Auto mit Campinganhänger                                                           | 100 PLN / Tag                                                                  |
-| 1-2 Personen Zelt                                                                  | 35 PLN / Tag                                                                   |
-| 3-6 Personen Zelt                                                                  | 50 PLN / Tag                                                                   |
-| Aufenthalt für 1 Person                                                            | 40 PLN / Tag                                                                   |
+| Campingwagen                                                                       | 150 PLN / Tag                                                                  |
+| Auto mit Campinganhänger                                                           | 150 PLN / Tag                                                                  |
+| 1-2 Personen Zelt                                                                  | 40 PLN / Tag                                                                   |
+| 3-6 Personen Zelt                                                                  | 55 PLN / Tag                                                                   |
+| Aufenthalt für 1 Person                                                            | 45 PLN / Tag                                                                   |
 | Aufenthalt von 1 Kind bis 13 Jahre                                                 | 25 PLN / Tag                                                                   |
 | Hundeaufenthalt                                                                    | 20 PLN / Tag                                                                   |
-| Ein Auto ohne Plakette parken                                                      | 15 PLN / Tag                                                                   |
-| Abstellen eines Bootsanhängers bis 6 m                                             | 15 PLN / Tag                                                                   |
-| Parken eines Bootsanhängers über 6 m                                               | 20 PLN / Tag                                                                   |
-| Benutzung der Waschmaschine                                                        | 20 PLN / Stück                                                                 |
+| Ein Auto ohne Plakette parken                                                      | 20 PLN / Tag                                                                   |
+| Abstellen eines Bootsanhängers bis 6 m                                             | 20 PLN / Tag                                                                   |
+| Parken eines Bootsanhängers über 6 m                                               | 25 PLN / Tag                                                                   |
+| Benutzung der Waschmaschine                                                        | 25 PLN / Stück                                                                 |
 | Abstellen ausländischer Schiffe (zur Renovierung) an Land, am Kai und in der Halle | individuell festgelegte Preise + Stromgebühr (nach Zählerständen) + Müllgebühr |
 
 Detaillierte Informationen im Vereinsbüro.
