@@ -44,40 +44,40 @@ Location on maps: [OpenStreetMap](https://www.openstreetmap.org/node/2396250849)
 
 Free parking for up to 3 hours. The parking fee per day depends on the length of the unit.
 
-### Price list of fees for the berthing of guest yachts during the 2023 season
+### Price list of fees for the berthing of guest yachts during the 2024 season
 
 | Length       | Price            |
 |---           |---               |
-| up to 5.99 m | PLN 55 / day     |
-| 6-7.99 m     | PLN 60 / day     |
-| 8-9.99 m     | PLN 70 / day     |
-| 10-11.99 m   | PLN 80 / day     |
-| 12-13.99 m   | PLN 90 / day     |
-| 14-15.99 m   | PLN 100 / day    |
-| 16-17.99 m   | PLN 120 / day    |
+| up to 5.99 m | PLN 65 / day     |
+| 6-7.99 m     | PLN 70 / day     |
+| 8-9.99 m     | PLN 80 / day     |
+| 10-11.99 m   | PLN 90 / day     |
+| 12-13.99 m   | PLN 105 / day     |
+| 14-15.99 m   | PLN 120 / day    |
+| 16-17.99 m   | PLN 145 / day    |
 | over 18 m    | price negotiated |
 
 ### Additional fees
 
-  - utilities (water, electricity) - PLN 10 / day
-  - shower - PLN 10 / piece,
-  - erecting and laying down the mast - up to 8 m - PLN 90, area 8 m – PLN 110
+  - utilities (water, electricity) - PLN 20 / day
+  - shower - PLN 15 / piece,
+  - erecting and laying down the mast - PLN 120
 
 ### Other fees
 
 | Genus                                                                            | Price                                                                                           |
 |---                                                                               |---                                                                                              |
-| camping car                                                                      | PLN 100 / day                                                                                   |
-| car with camping trailer                                                         | PLN 100 / day                                                                                   |
-| 1-2 person tent                                                                  | PLN 35 / day                                                                                    |
-| 3-6 person tent                                                                  | PLN 50 / day                                                                                    |
-| stay for 1 person                                                                | PLN 40 / day                                                                                    |
+| camping car                                                                      | PLN 150 / day                                                                                   |
+| car with camping trailer                                                         | PLN 150 / day                                                                                   |
+| 1-2 person tent                                                                  | PLN 40 / day                                                                                    |
+| 3-6 person tent                                                                  | PLN 55 / day                                                                                    |
+| stay for 1 person                                                                | PLN 45 / day                                                                                    |
 | stay of 1 child up to 13 years of age                                            | PLN 25 / day                                                                                    |
 | dog stay                                                                         | PLN 20 / day                                                                                    |
-| parking a car without a badge                                                    | PLN 15 / day                                                                                    |
-| parking of a boat trailer up to 6 m                                              | PLN 15 / day                                                                                    |
-| parking a boat trailer over 6 m                                                  | PLN 20 / day                                                                                    |
-| using the washing machine                                                        | PLN 20 / piece                                                                                  |
+| parking a car without a badge                                                    | PLN 20 / day                                                                                    |
+| parking of a boat trailer up to 6 m                                              | PLN 20 / day                                                                                    |
+| parking a boat trailer over 6 m                                                  | PLN 25 / day                                                                                    |
+| using the washing machine                                                        | PLN 25 / piece                                                                                  |
 | parking of foreign vessels (for renovation) on land, at the quay and in the hall | prices determined individually + electricity fee (according to submeter readings) + garbage fee |
 
 Detailed information at the club office.
