@@ -14,17 +14,14 @@ Koncert poprowadzi gościnnie Wojciech Koladyński – tekściarz, bloger, przyj
 
 Cykl koncertów w Jacht Klubie AZS to wyjątkowe połączenie muzyki i żeglarstwa – dwóch największych pasji Jana Waraczewskiego, skrzypka i wieloletniego koncertmistrza Orkiestry Symfonicznej Filharmonii w Szczecinie. Muzyka na wodzie Jana Waraczewskiego, choć już bez swojego charyzmatycznego twórcy, brzmi co roku i na wodach dąbskiej przystani. Poprzednie edycje koncertów przyciągnęły prawdziwe tłumy. Na przystani w Dąbiu, przy scenie nad jeziorem gromadzi się rokrocznie ponad tysięczna publiczność, a niecodzienna sceneria sprawia, że każdy koncert jest wyjątkowy.
 
-ARTYŚCI  
-West Side Sinfonietta  
-Paweł Maślanka - I skrzypce/koncertmistrz  
-Marcin Danilewski - I skrzypce/koncertmistrz  
-Wojciech Koladyński - prowadzenie
+## ARTYŚCI
 
-  
+- West Side Sinfonietta
+- Paweł Maślanka - I skrzypce/koncertmistrz
+- Marcin Danilewski - I skrzypce/koncertmistrz
+- Wojciech Koladyński - prowadzenie
 
 Zobacz [wspomnienie Filharmonii o Janie Waraczewskim](https://www.youtube.com/watch?v=WrjDiUzK-vU) oraz [niezapomniane wykonanie _Ach, jedź do Waraszdin!_](https://www.youtube.com/watch?v=Z7M_-wo0FlQ) [](javascript:void(0)/*291*/)z Hrabiny Maricy w aranżacji znakomitych solistek [Anit](https://www.facebook.com/anita.maszczyk)[y Maszczyk](https://www.facebook.com/anita.maszczyk) i [Wioletty Białk](https://www.facebook.com/profile.php?id=100009851770150).
-
-  
 
 Tegoroczny koncert odbędzie się w sobotę, 10 czerwca o godz. 21:00 na przystani Jacht Klubu AZS w Szczecinie-Dąbiu przy ul. Przestrzennej 9. Wstęp wolny.
 
@@ -32,9 +29,9 @@ Tegoroczny koncert odbędzie się w sobotę, 10 czerwca o godz. 21:00 na przysta
 
 **Stałym bywalcom powtarzać nie trzeba, ale tym z Państwa, którzy zechcą po raz pierwszy skorzystać z naszego zaproszenia na koncert, chcielibyśmy podpowiedzieć:**
 
-1\. Parkowanie przebiega sprawnie, ale jest nieco czasochłonne. Nie odkładaj przyjazdu na ostatnią chwilę.  
-2\. Weź ze sobą sweter lub kurtkę: chłodne wieczory potrafią zaskoczyć, a i komary z Lubczyny lubią wpaść na koncert.  
-3\. Prosimy śledzić prognozę pogody i w razie czego przygotować kurtki przeciwdeszczowe i peleryny, albowiem parasole chronią wprawdzie użytkownika, ale podlewają podstępnie sąsiadów. Pamiętajmy też, że parasole ograniczają widoczność osobom z tyłu.  
+1\. Parkowanie przebiega sprawnie, ale jest nieco czasochłonne. Nie odkładaj przyjazdu na ostatnią chwilę.
+2\. Weź ze sobą sweter lub kurtkę: chłodne wieczory potrafią zaskoczyć, a i komary z Lubczyny lubią wpaść na koncert.
+3\. Prosimy śledzić prognozę pogody i w razie czego przygotować kurtki przeciwdeszczowe i peleryny, albowiem parasole chronią wprawdzie użytkownika, ale podlewają podstępnie sąsiadów. Pamiętajmy też, że parasole ograniczają widoczność osobom z tyłu.
 
 Współorganizatorem koncertu _**Muzyka na wodzie Jana Waraczewskiego – filmowe przeboje**_ jest [Filharmonia im. M. Karłowicza w Szczecinie](http://www.filharmonia.szczecin.pl/). Partnerami koncertu są [Pomorze Zachodnie](https://wzp.pl/) oraz [Żegluga Szczecińska Turystyka i Wydarzenia](https://zstw.szczecin.pl/pl/home). Sponsorami koncertu są [Enea Operator](https://www.operator.enea.pl/), [BOBRYK](https://www.bobryk.pl/), [Calbud](https://www.calbud.com.pl/), [Calesco](http://www.calesco.pl/), [Marco Marine](https://marcomarine.pl/), [Marina Developer](https://marina-developer.pl/), [REMONDIS](http://www.remondis.pl), [Zachodniopomorski Uniwersytet Technologiczny w Szczecinie](https://www.zut.edu.pl/) oraz [Aeroklub Szczeciński](http://aeroklubszczecinski.pl/).
 
