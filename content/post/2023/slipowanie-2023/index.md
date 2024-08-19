@@ -5,6 +5,8 @@ date: 2023-12-07T00:20:50+01:00
 image: slipowanie-balta.jpg
 hidden: false
 draft: false
+categories:
+    - Sprawy klubowe
 tags:
   - slipowanie
 ---
