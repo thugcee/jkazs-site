@@ -15,6 +15,6 @@ Szczegóły w załącznikach.
 
 <img src="./72-regaty-page-1.jpg" alt="strona 1" width="400px"/>
 
-<img src="./72-regaty-page-2.jpg" alt="strona 1" width="400px"/>
+<img src="./72-regaty-page-2.jpg" alt="strona 2" width="400px"/>
 
-<img src="./72-regaty-page-3.jpg" alt="strona 1" width="400px"/>
+<img src="./72-regaty-page-3.jpg" alt="strona 3" width="400px"/>
