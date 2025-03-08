@@ -1,64 +1,73 @@
 ---
-title: "Kalendarium"
-description: 
+title: Kalendarium
+description: Kalendarium wydarzeń od roku 1946.
 date: 2024-02-17T00:03:21+01:00
 layout: single
-image: 
+image: null
 hidden: true
 ---
-
 Zobacz też: 
- - [Kalendarium regatowe](../kalendarium-regatowe/) oraz
- - [Komandorzy Jacht Klubu AZS w Szczecinie od 1946 r.](../../sprawy-klubowe/komandorzy/)
+
+* [Kalendarium regatowe](../kalendarium-regatowe/) oraz
+* [Komandorzy Jacht Klubu AZS w Szczecinie od 1946 r.](../../sprawy-klubowe/komandorzy/)
 
 # Kalendarium JK AZS
 
 Od tych jachtów się zaczęło:
 
-| [Szalupa](jacht-szalupa)  | Maciek | Kaczorek | Przygoda | Tuńczyk | Meduza |
-|----  |---- |---- |---- |---- |--- |
+| [Szalupa](jacht-szalupa)             | Maciek                 | Kaczorek                    | Przygoda                   | Tuńczyk                  | Meduza                 |
+| ------------------------------------ | ---------------------- | --------------------------- | -------------------------- | ------------------------ | ---------------------- |
 | <img src="1szalupa.jpg" width="80"/> | ![Maciek](2maciek.jpg) | ![Kaczorek](10kaczorek.jpg) | ![Przygoda](4przygoda.jpg) | ![Tuńczyk](3tunczyk.jpg) | ![Meduza](5meduza.jpg) |
 
-| Nadir  | Wicher | Kania | [Witeź II](https://www.kulinski.navsim.pl/art.php?id=3087) | Swantewit |
-|----  |---- |---- |---- |---- |
-| ![Nadir](6nadir.jpg) | <img src="wicher2.jpg" width=150/> | ![Kania](9kania.jpg) | ![Witeź II](8witez.jpg) | ![Swantewit](7Swantewit.jpg) |
-
-
+| Nadir                | Wicher                             | Kania                | [Witeź II](https://www.kulinski.navsim.pl/art.php?id=3087) | Swantewit                    |
+| -------------------- | ---------------------------------- | -------------------- | ---------------------------------------------------------- | ---------------------------- |
+| ![Nadir](6nadir.jpg) | <img src="wicher2.jpg" width=150/> | ![Kania](9kania.jpg) | ![Witeź II](8witez.jpg)                                    | ![Swantewit](7Swantewit.jpg) |
 
 ## Lata 1946-1989 opracował Ziemowit Ostrowski
 
 ### 1946
+
 Narodziny akademickiego żeglarstwa w Szczecinie wyprzedziły inaugurację pierwszej wyższej uczelni tego miasta - Akademii Handlowej. Sekcja Żeglarska Akademickiego Związku Sportowego powstała 12 listopada 1946 roku.
 
 ### 1947
+
 Z multidyscyplinarnego AZS-u, po 4 miesiącach, przeniosła się do czysto żeglarskiego Akademickiego Związku Morskiego.
 
 ### 1948
+
 AZM przejmuje przystań na Gocławiu z tzw. Pałacem Jachtowym (dawniej St.YC).
 
 ### 1949
+
 Nakazane połączenie AZM i AZS, powrót do formy Sekcji Żeglarskiej AZS. Podjęto starania o kilka wraków jachtów i kiedy władze w roku 1949 wymusiły włączenie AZM do AZS, jachty Maciek i Kaczorek miały za sobą już cały sezon pływania. Na pierwsze po wojnie szczecińskie regaty, które odbyły się 18 września 1949 r., sekcja wysłała już 5 jednostek.
 
 ### 1952
+
 W ramach stalinowskiej akcji izolowania miasta od portu, Wojska Ochrony Pogranicza wywłaszczyły AZS ze znakomitej przystani przy tzw. Pałacu Jachtowym na Gocławiu. Sekcja zagospodarowała opuszczoną wyspę na Odrze Zachodniej, tworząc tam sprawne zimowisko. W tym okresie jedynym akwenem swobodnej żeglugi było jezioro Dąbie. Odległość do niego dyskwalifikowała wyspę jako bazę letnią.
 
 ### 1954
+
 Rozpoczęto starania o budowę przystani żeglarskiej nad jeziorem. Obiekt powstał i jest od połowy lat 50. stale rozbudowywaną przystanią Jacht Klubu AZS,
 
 ### 1955
+
 Wojewódzki Komitet KF zleca AZS rolę inwestora Centralnej Przystani Żeglarskiej.
 
 ### 1959
+
 Rejsami do Islandii i dookoła Anglii Witeź II wchodzi do historii żeglarstwa polskiego. Obok szkolenia i turystyki od 1949 r. AZS rozwija działalność regatową, początkowo na jachtach balastowych, później także mieczowych. Pierwszym znaczącym sukcesem w kraju było zdobycie w 1952 r. II miejsca w I Mistrzostwach Polski Jachtów Balastowych, a na arenie międzynarodowej - zwycięstwo "Swantewita" w regatach dookoła Rugii. Organizowane od 1951 r. przez JK AZS "Regaty Przyjaźni" są najstarszymi na Pomorzu Zachodnim, corocznie przeprowadzanymi przez tego samego organizatora regatami. W 50-letniej historii klubu nasi zawodnicy startowali w klasach: "P 7", "H", "Omega", "Słonka", "Star", "Finn", "Laser", "OK-Dinghy", "Cadet", "Optymist", "FD", "Hornet", "420", "470", "Folkboat", "Dragon", "Soling", "deska z żaglem" oraz w klasach jachtów morskich, uzyskując wiele znaczących sukcesów. Więcej o sukcesach grupy regatowej można przeczytać w liście Joli Boehm, która była przez wiele lat trenerem w JK AZS, a obecnie mieszka w Australii.
 
 ### 1967
+
 Przekazanie wyspy na Pomorzanach Politechnice Szczecińskiej.
 
 ### 1970
+
 W latach 70. flotylla klubowa liczyła około 100 jednostek, zaś liczba członków przekraczała 500 osób. Następcą "Witezia" był "Pegaz", który m.in. jako jeden z pierwszych polskich jachtów osiągnął północny koniec Bałtyku (1969). Zbudowane przed 1931 rokiem "Swantewit", "Nadir" i "Nord" należą do najstarszych wśród eksploatowanych w Polsce jachtów. "Dal II", "Żak", "Bonito" i znany z popularnej piosenki żeglarskiej "Umbriaga", zaznaczały swoje istnienie raczej wynikami regatowymi, choć odbyły też wiele rejsów turystycznych po Morzu Północnym, Śródziemnym, Czarnym, Egejskim i Adriatyku. "Gryfita" pływał m.in. na Wyspy Kanaryjskie (1976), a "Gaudeamus" odbył w latach 1986-87 rejs do USA. Najznakomitsze osiągnięcia rejsowe Klubu wiążą się z osobą Ludomira Mączki (w klubie od 1949 r.), uczestnika rejsu "Witezia II" do Islandii, 4-letniej wyprawy "Vagabonda II", w trakcie której wraz z drugim członkiem Klubu, Wojciechem Jacobsonem, dokonali pierwszego w historii przejścia jachtem od Cieśniny Beringa do Grenlandii, wreszcie kapitana w 18-letnim rejsie swoją "Marią" dookoła świata (1973-1991 ). Na poszczególnych etapach tego pływania towarzyszyło "Ludojadowi" kilku klubowych kolegów.
 Poczet honorowych członków klubu otwiera "Kapitan Kapitanów" Konstanty Maciejewicz. Żeglarze JK AZS jako kapitanowie dowodzili w wielu znaczących rejsach, jako zawodnicy zdobyli w regatach wiele medali, tytułów i nagród, jako sędziowie prowadzili setki imprez - od lokalnych do międzynarodowych, jako działacze byli członkami kierownictw: krajowego, akademickiego i szczecińskiego żeglarstwa.
 
 ### 1989
+
 Od 1989 r. Jacht Klub AZS skutecznie adaptuje się do nowych warunków, w jakich działa polski sport. Pozbawiony dotacji i etatów szybko dostosował zakres działalności do realiów. Pomogła w tym pięćdziesięcioletnia tradycja klubowej aktywności i efektywnej pracy. Fakt pozostania największym klubem żeglarskim Pomorza Zachodniego może być miarą sukcesu. Aktualnie Klub zrzesza 243 członków i jest najliczniejszym Klubem na Pomorzu Zachodnim, przodując jednocześnie w wyszkoleniu swych żeglarzy, o czym świadczy ilość posiadanych przez nich stopni.
 
 ## Lata 1991-2011 opracował Zenon Szostak
@@ -123,8 +132,6 @@ Roczny czarter „Gaudeamus” (część załogi z Klubu); rejs na Wyspy Kanaryj
 
 29.06 – 23.07.  rejs „Dalą II” do Hamburga i Thyboron; kpt. Z. Ostrowski
 
- 
-
 ### 1998
 
 (30.01.98) Zmarł Feliks Wodziński - założyciel SŻ AZS w Szczecinie w 1946 r., później prezes oddziału AZM; pionier żeglarstwa akademickiego na Pomorzu Zachodnim. Jego prywatna łódź była pierwszą jednostką klubową, która służyła wszystkim akademickim żeglarzom.
@@ -148,6 +155,7 @@ Roczny czarter „Gaudeamus” (część załogi z Klubu); rejs na Wyspy Kanaryj
 (01.03.01) Wojciech Jacobson jako pierwszy członek Klubu minął Horn (na Concordii, jako I of).
 
 ### 2002
+
 Nagroda "Super Kolos" 2001 dla Ludomira Mączki.
 "Smuga cienia" do Hiszpanii, Francji, Anglii na Tall Ships Races.
 "Stary" wychodzi w rejs Cape Horn - Antarctica (załoga ze Śląska - studenci).
@@ -287,8 +295,6 @@ III nagroda Rejs Roku dla Ludomira Mączki i Macieja Krzeptowskiego za rejs wok�
 
 (30.12.09) ogólnopolskie wyróżnienie Rejs Roku 2009 dla wyprawy islandzkiej jachtem „Stary” (kpt. M. Krzeptowski).
 
- 
-
 ### 2010
 
 (17.01.10)   Maciek Krzeptowski (z naszego Klubu), Jana Dwojewska-Krzeptowska i Kazimierz Sawczuk dołączyli do  Karoliny i Czecha na żeglugę jachtem „Manui” w kanałach Patagonii.
@@ -322,8 +328,6 @@ XIV Regaty o Bukiet Jeziora Dąbie.
 (04-05.09.10)   LX Regaty Przyjaźni.
 
 (25.09.10)  „Śpiewające Żagle” – szanty, muzyka irlandzka; organizator Willi Kryska.
-
- 
 
 ### 2011
 
@@ -379,8 +383,6 @@ XIV Regaty o Bukiet Jeziora Dąbie.
 
 29.09. „Stary” powrócił z Grenlandii; czarter JK AZS Wrocław
 
- 
-
 ### 2013
 
 02.04. zmarł Janusz Tyszkiewicz, kierował Klubem w latach 1965 – 1967
@@ -390,8 +392,6 @@ zmarł Ryszard Książyński, członek AZM i sekcji AZS w Szczecinie w latach 19
 29.06. koncert „Muzyka na Wodzie”; muzyka filmowa
 
 15 - 28.07. rejs DZ „SUM” do źródeł Piany
-
- 
 
 ### 2014
 
@@ -443,7 +443,7 @@ W sezonie 2016 roku Henryk Widera żegluje „Gawotem” (typ „Tango Family”
 
 03 Międzynarodowe Nagrody Żeglarskie Szczecina:
 
-- Nagroda im. kpt. Ludomira Mączki – Wojciech Jacobson - „dla żeglarskiego ambasadora Szczecina, za wieloletnią działalność na polu żeglarstwa, szerzenie jego idei, jako płaszczyzny porozumienia, współpracy i przyjaźni”
+* Nagroda im. kpt. Ludomira Mączki – Wojciech Jacobson - „dla żeglarskiego ambasadora Szczecina, za wieloletnią działalność na polu żeglarstwa, szerzenie jego idei, jako płaszczyzny porozumienia, współpracy i przyjaźni”
 
 10-11.06 XXI Damskie Regaty o Bukiet jeziora Dąbie
 
@@ -463,11 +463,9 @@ W sezonie 2016 roku Henryk Widera żegluje „Gawotem” (typ „Tango Family”
 
 25.03. Międzynarodowe Nagrody Żeglarskie Szczecina:
 
-- Nagroda im. kpt. Ludomira Mączki - Henryk Widera - „za wierność idei swobodnego żeglowania i żeglowanie za horyzont, ku słońcu”
-
-- Rejs Roku – Nagroda im. Wyszaka – Włodzimierz Byliński, „za rejs ze Szczecina do Grecji po spełnienie swoich marzeń” (rejs jachtem :Kulfon II”)
-
-- Żeglarz Roku - Adam Lisiecki, „żeglarzowi, który zegluje przez ponad pół wieku, zdobywając laury regatowe”
+* Nagroda im. kpt. Ludomira Mączki - Henryk Widera - „za wierność idei swobodnego żeglowania i żeglowanie za horyzont, ku słońcu”
+* Rejs Roku – Nagroda im. Wyszaka – Włodzimierz Byliński, „za rejs ze Szczecina do Grecji po spełnienie swoich marzeń” (rejs jachtem :Kulfon II”)
+* Żeglarz Roku - Adam Lisiecki, „żeglarzowi, który zegluje przez ponad pół wieku, zdobywając laury regatowe”
 
 Ogólnopolskie Kolosy w Gdyni – nagroda specjalna dla Henryka Widery (laudacje red. Marek Słodownik) 18.04. zmarł Jerzy Szałajko, od wiosny 1949 roku w akademickim żeglarstwie (AKM Szczecin, azs Szczecin)
 
@@ -501,13 +499,12 @@ Wiktor Protas jacht „Rudzik” - II m
 
 03 Międzynarodowe Nagrody Żeglarskie Szczecina:
 
-- Nagroda im. kpt. Ludomira Mączki – Maciej Krzeptowski - „za wierność idei swobodnego żeglowania po morzach i oceanach w poszukiwaniu przyjaźni i nieodkrytych lądów. Za znaczący wkład w rozwój żeglarstwa na Pomorzu Zachodnim i w Polsce oraz wskazywanie drogi młodym adeptom żeglarstwa za horyzont, ku wielkiej wodzie”
+* Nagroda im. kpt. Ludomira Mączki – Maciej Krzeptowski - „za wierność idei swobodnego żeglowania po morzach i oceanach w poszukiwaniu przyjaźni i nieodkrytych lądów. Za znaczący wkład w rozwój żeglarstwa na Pomorzu Zachodnim i w Polsce oraz wskazywanie drogi młodym adeptom żeglarstwa za horyzont, ku wielkiej wodzie”
+* Popularyzator Żeglarstwa – Nagroda im. kpt. Kazimierza Haski – Zenon Szostak, „za ponad 40-letnią działalność na rzecz popularyzacji żeglarstwa, szczególnie akademickiego, na Pomorzu Zachodnim i w Polsce”.
 
-- Popularyzator Żeglarstwa – Nagroda im. kpt. Kazimierza Haski – Zenon Szostak, „za ponad 40-letnią działalność na rzecz popularyzacji żeglarstwa, szczególnie akademickiego, na Pomorzu Zachodnim i w Polsce”.
+  06.04 zebranie sprawozdawczo-wyborcze w Klubie; Komandorem wybrano Witolda Zdrojewskiego.
 
-06.04 zebranie sprawozdawczo-wyborcze w Klubie; Komandorem wybrano Witolda Zdrojewskiego.
-
-18.05. otwarcie sezonu żeglarskiego w JK AZS
+  18.05. otwarcie sezonu żeglarskiego w JK AZS
 
 15-16.06. XXIII Damskie Regaty o Bukiet jez. Dabie
 
@@ -533,9 +530,8 @@ Wiktor Protas jacht „Rudzik” - II m
 
 16.03. Międzynarodowe Nagrody Żeglarskie Szczecina:
 
-- Popularyzator Żeglarstwa – Nagroda im. kpt. Kazimierza Haski – Zbigniew Kosiorowski, „za wieloletnią działalność na rzecz żeglarstwa oraz wielki wkład w rozwój edukacji morskiej dzieci i młodzieży w regionie”
-
-- Nagroda Kulturalna Żeglarskiego Szczecina – Małgorzata Krautschneider, „za osiągnięcia n apolu żeglarskiej kultury w Stanach Zjednoczonych wśród amerykańskiej Polonii, opisanie czesko-polskiego rejsu na Islandię z 1977 roku w książce „he Vela” oraz przeniesienie szczecinskich Koncertów „na wodzie” do Nowego Yorku”.
+* Popularyzator Żeglarstwa – Nagroda im. kpt. Kazimierza Haski – Zbigniew Kosiorowski, „za wieloletnią działalność na rzecz żeglarstwa oraz wielki wkład w rozwój edukacji morskiej dzieci i młodzieży w regionie”
+* Nagroda Kulturalna Żeglarskiego Szczecina – Małgorzata Krautschneider, „za osiągnięcia n apolu żeglarskiej kultury w Stanach Zjednoczonych wśród amerykańskiej Polonii, opisanie czesko-polskiego rejsu na Islandię z 1977 roku w książce „he Vela” oraz przeniesienie szczecinskich Koncertów „na wodzie” do Nowego Yorku”.
 
 W połowie marca wprowadzono w całym kraju (i na świecie) obostrzenia z powodu pandemii koronawirusa; skutkiem tego jest, m.in. zakaz przebywania w klubie – wstrzymane prace remontowe przy jachtach, zakaz zgromadzeń.
 
