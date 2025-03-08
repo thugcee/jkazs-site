@@ -2,6 +2,12 @@
 
 Wersja eksperymentalna.
 
+## Startowanie lokalnego CMS (eksperymentalnie)
+
+```bash
+./start-dev.sh
+```
+
 ## Dodawanie nowego postu
 
 Przykładowe polecenie:
