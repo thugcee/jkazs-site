@@ -40,7 +40,7 @@ Standort auf Karten: [OpenStreetMap](https://www.openstreetmap.org/node/23962508
 
 Die Yacht bleibt bis zu 3 Stunden kostenfrei. Die Parkgebühr pro Tag richtet sich nach der Länge der Wohneinheit.
 
-[Gästeparkplatzreservierung.](Gästeparkplatzreservierung)
+[Gästeparkplatzreservierung.](#reservierung-eines-gästestopps)
 
 ### Preisliste der Gebühren für das Anlegen von Gastyachten in der Saison 2024
 
@@ -85,3 +85,11 @@ Detaillierte Informationen im Vereinsbüro.
 Mastkran, Taverne, Bootsbauwerkstatt, AST Sails Segelhaus vor Ort, Tankstelle 300 m, Lebensmittelgeschäft 3 km, Segelgeschäft 100 m.
 
 Für Yachten mit Anhänger, Motorroller und Motorboote ist das Ausrutschen auf der Metallrutsche verboten.
+
+## Reservierung eines Gästestopps
+
+Obwohl es so gut wie nie vorkommt, dass wir jemandem einen Gastliegeplatz in unserer Marina aufgrund von Platzmangel ablehnen müssen, kommen wir den Wünschen derjenigen unter Ihnen entgegen, die bereits vorab einen Gastliegeplatz reservieren möchten. Gleichzeitig möchten wir Sie darüber informieren, dass wir derzeit keine freien Wohnplätze haben.
+
+Bei Interesse an einer Platzreservierung, Terminvereinbarung zum Aufstellen/Aufstellen des Mastes etc. senden Sie Ihre Vorstellungen bitte an folgende E-Mail-Adresse: booking.azs@gmail.com. Spätestens am nächsten Werktag (das Büro ist bis 16:00 Uhr geöffnet) erhalten Sie eine Bestätigung Ihrer Reservierung.
+
+In dringenden Fällen, beispielsweise wenn Sie sicherstellen möchten, dass in den nächsten Stunden Parkmöglichkeiten bestehen, empfehlen wir Ihnen, sich telefonisch an das Bosman zu wenden: +48 600 233 221.
