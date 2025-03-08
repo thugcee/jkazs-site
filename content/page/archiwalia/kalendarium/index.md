@@ -560,3 +560,75 @@ W połowie marca wprowadzono w całym kraju (i na świecie) obostrzenia z powodu
 9-10.10 Regaty „Oderman Cup”; w kl KWR 1: Adam Lisiecki „Lisica” - 1m
 
 23.10 slipowanie jachtów; jako pierwszy do slipowania jacht „Aspoletka”; dźwig z podniesionym jachtem wywrócił się, jacht uderzył w nabrzeże i na jacht upadło ramię dźwigu; jacht bardzo poważnie uszkodzony; slipowanie przerwane.
+
+### 2022
+
+26.01. zmarł Toni Brancewicz
+
+10.04. zebranie sprawozdawcze w Klubie; członkiem honorowym został Etlef Hansen  
+       (właściciel motorówki „Lady”)
+
+22.05. otwarcie sezonu żeglarskiego w JK AZS; wystawa archiwaliów Klubowych: Super 
+       Kolosy Ludka Mączki i Wojtka Jacobsona, kroniki klubowe; wystawa obrazów
+       malarza-żeglarza Pawła Przybyłowskiego
+
+24.06. Koncert „Muzyka na Wodzie” - muzyka filmowa w wykonaniu filharmoników
+       szczecińskich Szczecin Philharmonic Big Band
+
+06-07. rejs „Wild Thyme” (Beneteau Oceanis 351) na Wyspy Owcze; kapitan Piotr Maras
+
+19.08. 90. urodziny Komandora Klubu Witolda Zdrojewskiego; impreza urodzinowa w
+       Klubie
+
+07.09. zmarł Zbigniew Gerlach, wieloletni członek Klubu, członek honorowy, Komandor
+       Klubu
+
+15.12. spotkanie autorskie w Książnicy Pomorskiej w Szczecinie – promocja nowej książki
+       Wojciecha Jacobsona „Od równika do bieguna … i dalej”
+
+### 2023
+
+11.01. Krzysztof Baranowski (członek honorowy JK AZS) złozył zarządowi Klubu
+   propozycję wyczarterowania jachtu „Nadir” , na którym ma zamiar żeglować przez
+    Atlantyk na Karaiby i dalej przez Kanał Panamski, Pacyfik, Ocean Indyjski i z
+   powrotem do Szczecina; oferta nie przyjęta przez zarząd  
+
+14.01. Gala Żeglarska ZOZŻ w Starej Rzeźni
+
+25.03. Walne Zebranie Klubu; godność członka honorowego nadano Andrzejowi
+       Sokołowskiemu 
+
+27.03. zmarł Andrzej Sokołowski
+
+20.05. otwarcie sezonu żeglarskiego w JK AZS Szczecin
+
+10.06. koncert „Muzyka na Wodzie Jana Waraczewskiego” - przeboje filmowe
+
+17.06. XXVI Damskie Regaty o Bukiet jeziora Dąbie
+
+24.06 – 19.09.     rejs „Wild Thyme” (Beneteau Oceanis 351) na Islandię i Grenlandię (Scoresby Sund
+  i powyżej 71 st N; ok. 4312 Mm, 88 dni; odcinek arktyczny: kapitan Piotr Maras,
+  załoga: Marcin Raubo, Rafał Kaczmarek i Dominik Fedorowicz
+
+02.09. 71. Regaty Przyjaźni 
+
+       Zachodniopomorski Puchar Sezonu w KWR I – Adam Lisiecki, jacht „Lisica”     1m
+                                                                jacht „Zumarak”    3m
+
+### 2024
+
+16.03.    Nagroda Żeglarskiego Szczecina w kategorii Rejs Roku - nagroda im. Wyszaka za
+          rejs na Grenlandię do Scoresby Sund: jacht i kapitan z JK AZS Szczecin; jacht „Wild
+          Thyme”, kapitan Piotr Maras
+
+06.04.   Zebranie Sprawozdawcze w Klubie; wg sprawozdania w Klubie jest 7 studentów
+         na ogółem 200 członków; godność członka honorowego nadano Leifowi  
+         Backlin (Szwed, podarował dla Klubu dźwig samojezdny do stawiania/kładzenia
+         masztów)
+
+25.05.   Otwarcie sezonu żeglarskiego w JK AZS Szczecin
+
+15.06.   XXVII Regaty Damskie o Bukiet Jeziora Dąbskiego; wystartowały 3 jachty
+
+31.08.   72. Regaty Przyjaźni
+
