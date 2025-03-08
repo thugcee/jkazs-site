@@ -17,11 +17,11 @@ Od tych jachtów się zaczęło:
 
 | [Szalupa](jacht-szalupa)             | Maciek                 | Kaczorek                    | Przygoda                   | Tuńczyk                  | Meduza                 |
 | ------------------------------------ | ---------------------- | --------------------------- | -------------------------- | ------------------------ | ---------------------- |
-| <img src="1szalupa.jpg" width="80"/> | ![Maciek](2maciek.jpg) | ![Kaczorek](10kaczorek.jpg) | ![Przygoda](4przygoda.jpg) | ![Tuńczyk](3tunczyk.jpg) | ![Meduza](5meduza.jpg) |
+| <img src="1szalupa.jpg" width="80"/> | ![Maciek](kalendarium/2maciek.jpg) | ![Kaczorek](kalendarium/10kaczorek.jpg) | ![Przygoda](kalendarium/4przygoda.jpg) | ![Tuńczyk](kalendarium/3tunczyk.jpg) | ![Meduza](kalendarium/5meduza.jpg) |
 
 | Nadir                | Wicher                             | Kania                | [Witeź II](https://www.kulinski.navsim.pl/art.php?id=3087) | Swantewit                    |
 | -------------------- | ---------------------------------- | -------------------- | ---------------------------------------------------------- | ---------------------------- |
-| ![Nadir](6nadir.jpg) | <img src="wicher2.jpg" width=150/> | ![Kania](9kania.jpg) | ![Witeź II](8witez.jpg)                                    | ![Swantewit](7Swantewit.jpg) |
+| ![Nadir](kalendarium/6nadir.jpg) | <img src="wicher2.jpg" width=150/> | ![Kania](kalendarium/9kania.jpg) | ![Witeź II](kalendarium/8witez.jpg)                                    | ![Swantewit](kalendarium/7Swantewit.jpg) |
 
 ## Lata 1946-1989 opracował Ziemowit Ostrowski
 
