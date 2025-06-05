@@ -15,10 +15,17 @@ categories:
 
 Przystań Jacht Klubu AZS, ul. Przestrzenna 9
 
-Wszystkim z Państwa, którzy zechcą skorzystać z zaproszenia na koncert Jacht Klub AZS podpowiada:
-- Parkowanie przebiega sprawnie, ale jest nieco czasochłonne. Nie odkładaj przyjazdu na ostatnią chwilę.
-- Weź ze sobą sweter lub kurtkę: chłodne wieczory potrafią zaskoczyć, a i komary z Lubczyny lubią wpaść na koncert.
-- Prosimy śledzić prognozę pogody i w razie czego przygotować kurtki przeciwdeszczowe i peleryny, albowiem parasole chronią wprawdzie użytkownika, ale podlewają podstępnie sąsiadów. Pamiętajmy też, że parasole ograniczają widoczność osobom z tyłu.
+Wszystkim z Państwa, którzy zechcą skorzystać z zaproszenia na koncert Jacht
+Klub AZS podpowiada:
+
+- Parkowanie przebiega sprawnie, ale jest nieco czasochłonne. Nie odkładaj
+przyjazdu na ostatnią chwilę.
+- Weź ze sobą sweter lub kurtkę: chłodne wieczory potrafią zaskoczyć, a i
+komary z Lubczyny lubią wpaść na koncert.
+- Prosimy śledzić prognozę pogody i w razie czego przygotować kurtki
+przeciwdeszczowe i peleryny, albowiem parasole chronią wprawdzie użytkownika,
+ale podlewają podstępnie sąsiadów. Pamiętajmy też, że parasole ograniczają
+widoczność osobom z tyłu.
 
 ## ARTYŚCI
 
@@ -51,4 +58,36 @@ Koncerty na przystani w Dąbiu to wydarzenia, które na długo pozostają w pami
 
 Link do [wydarzenia na stronie Filharmonii](https://filharmonia.szczecin.pl/wydarzenia/2365-Muzyka_na_wodzie_Jana_Waraczewskiego).
 
-Partnerem koncertu jest [Pomorze Zachodnie](https://www.facebook.com/PomZachodnie), [Pomorze Zachodnie News](https://www.facebook.com/PomorzeZachodnieNews).
+Partnerem koncertu jest 
+
+## Organizatorzy
+
+Organizatorami koncertu Muzyka na wodzie Jana Waraczewskiego są Filharmonia w Szczecinie oraz Jacht Klub AZS.
+
+<a href="https://filharmonia.szczecin.pl/"><img src="images/filharmonia_pl_98image.png" width="200px"/></a>
+<a href="/"><img src="images/jkazs_pl_154image.png" width="160px"/></a>
+
+## Partnerzy
+
+Partnerami koncertu są [Pomorze Zachodnie](https://www.facebook.com/PomZachodnie) ([Pomorze Zachodnie News](https://www.facebook.com/PomorzeZachodnieNews)), Żegluga Szczecińska Turystyka i Wydarzenia, Aeroklub Szczeciński i Remondis Szczecin.
+
+<a href="http://wzp.pl/"><img src="images/pomorze_zachodnie-pl_83image.png" width="140px"/></a>
+<a href="https://zstw.szczecin.pl/"><img src="images/żstw-pl_429image.png" width="140px"/></a>
+<a href="https://www.remondis-szczecin.pl/"><img src="images/remondis-pl_149image.png" width="140px"/></a>
+<a href="http://aeroklubszczecinski.pl/"><img src="images/aeroklub-pl_430image.png" width="140px"/></a>
+
+## Sponsorzy
+
+Sponsorami koncertu są: Zarząd Morskich Portów Szczecin i Świnoujście, Marina Developer, Calbud, Marco Marine, Pomeranian Timber, Calesco, CSL, Bobryk, Zachodniopomorski Uniwersytet Technologiczny w Szczecinie, Millennium, Intergas.
+
+<img src="./images/port.png" width="100px"/>
+<a href="https://marina-developer.pl/"><img src="./images/marina-developer.png" width="140px"/></a>
+<a href="https://calbud.com.pl/"><img src="./images/calbud.png" width="140px"/></a>
+<img src="./images/macromarine.png" width="140px"/>
+<img src="./images/pomeranian-timber.png" width="140px"/>
+<a href="https://calesco.pl/pl/start"><img src="./images/calesco.png" width="140px"/></a>
+<img src="./images/csl.png" width="250px"/>
+<img src="./images/bobryk.png" width="140px"/>
+<a href="https://www.zut.edu.pl/"><img src="./images/zut.png" width="240px"/></a>
+<a href="https://owmillennium.pl/"><img src="./images/millenium.png" width="140px"/></a>
+<img src="./images/inergas.png" width="200px"/>
