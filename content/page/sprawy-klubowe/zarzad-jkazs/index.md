@@ -1,6 +1,5 @@
 ---
 title: Zarząd Jacht Klubu AZS
-image: 20130511_0060-v1-R1-4k-Wieczorem na przystani.jpg
 date: 2022-12-04
 hidden: true
 ---
@@ -8,29 +7,29 @@ hidden: true
 
 ### Zarząd Klubu
 
-| Stanowisko                        | Osoba                   |                                               |
-|---                                |---                      |---                                            |
-| Komandor:                         | **Witold Zdrojewski**   | <img src="Witold-Zdrojewski.jpg" width="70"/> |
-| Wicekomandor ds. organiz.:        | **Robert Gołąb**        | <img src="Robert-Gołąb.jpg" width="70"/>      |
+| Stanowisko                        | Osoba                   |
+|---                                |---                      |
+| Komandor:                         | **Marek Hermach** |
+| Wicekomandor:        | **Tadeusz Kiszka**        |
+| Wicekomandor:       | **Dariusz Sakowicz**        |
 | Skarbnik:                         | **Marek Stoeck**        |
-| Czł. ds. łącz. z młodz. i stud.:  | **Dariusz Sakowicz**    |
-| Czł. ds. społ.:                   | **Stanisław Pietracha** |
-| Członek ds. tech.:                | **Tadeusz Kiszka**      |
+| Członek zarządu:  | **Marek Banaszkiewicz**   |
+| Członel zarządu:                   | **Stanisław Pietracha** |
 
 ### Komisja Rewizyjna
 
 | Stanowisko         | Osoba                  |
 |---                 |---                     |
-| Przewodniczący     | **Maciej Szuberla**    |
-| Wiceprzewodniczący | **Marek Hermach**      |
-| Sekretarz          | **Bartosz Kraczowski** |
+| Przewodniczący     | **Bartosz Kraczowski**    |
+| Wiceprzewodniczący | **Maciej Franciszek Korek**      |
+| Sekretarz          | **Seweryn Antoni Andrelczyk** |
 
 ### Sąd Koleżeński
 
 | Stanowisko         | Osoba                  |
 |---                 |---                     |
-| Przewodniczący     | Marek Wróblewski       |
-| Sekretarz          | Seweryn Niemiec        |
-| Członek            | Witold Brzeziński      |
-| Członek            | Joanna Frycz           |
-| Członek            | Maciej Korek           |
+| Przewodniczący | Marek Wróblewski       |
+| Sekretarz| Magda Drabik        |
+| Członek| Witold Brzeziński      |
+| Członek| Marcin Figaszewski           |
+| Członek | Seweryn Niemiec        |
