@@ -42,7 +42,7 @@ Die Yacht bleibt bis zu 3 Stunden kostenfrei. Die Parkgebühr pro Tag richtet si
 
 [Gästeparkplatzreservierung.](#reservierung-eines-gästestopps)
 
-### Preisliste der Gebühren für das Anlegen von Gastyachten in der Saison 2024
+### Preisliste der Gebühren für das Anlegen von Gastyachten in der Saison 2025
 
 | Länge      | Preis              |
 |---         |---                 |
@@ -57,9 +57,9 @@ Die Yacht bleibt bis zu 3 Stunden kostenfrei. Die Parkgebühr pro Tag richtet si
 
 ### Zusätzliche Gebühren
 
-  - Nebenkosten (Wasser, Strom) - 20 PLN / Tag
-  - Dusche - 15 PLN / Stück,
-  - Aufstellen und Ablegen des Mastes – 120 PLN
+- Nebenkosten (Wasser, Strom) - 20 PLN / Tag
+- Dusche - 10 PLN / Stück,
+- Aufstellen und Ablegen des Mastes – 150 PLN
 
 ### Sonstige Gebühren
 
@@ -90,6 +90,6 @@ Für Yachten mit Anhänger, Motorroller und Motorboote ist das Ausrutschen auf d
 
 Obwohl es so gut wie nie vorkommt, dass wir jemandem einen Gastliegeplatz in unserer Marina aufgrund von Platzmangel ablehnen müssen, kommen wir den Wünschen derjenigen unter Ihnen entgegen, die bereits vorab einen Gastliegeplatz reservieren möchten. Gleichzeitig möchten wir Sie darüber informieren, dass wir derzeit keine freien Wohnplätze haben.
 
-Bei Interesse an einer Platzreservierung, Terminvereinbarung zum Aufstellen/Aufstellen des Mastes etc. senden Sie Ihre Vorstellungen bitte an folgende E-Mail-Adresse: booking.azs@gmail.com. Spätestens am nächsten Werktag (das Büro ist bis 16:00 Uhr geöffnet) erhalten Sie eine Bestätigung Ihrer Reservierung.
+Bei Interesse an einer Platzreservierung, Terminvereinbarung zum Aufstellen/Aufstellen des Mastes etc. senden Sie Ihre Vorstellungen bitte an folgende E-Mail-Adresse: [booking.azs@gmail.com](mailto:booking.azs@gmail.com). Spätestens am nächsten Werktag (das Büro ist bis 16:00 Uhr geöffnet) erhalten Sie eine Bestätigung Ihrer Reservierung.
 
 In dringenden Fällen, beispielsweise wenn Sie sicherstellen möchten, dass in den nächsten Stunden Parkmöglichkeiten bestehen, empfehlen wir Ihnen, sich telefonisch an das Bosman zu wenden: +48 600 233 221.

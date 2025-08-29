@@ -46,7 +46,7 @@ Położenie na mapach: [OpenStreetMap](https://www.openstreetmap.org/node/239625
 
 Do 3h postój bezpłatny. Opłata postojowa za dobę zależna od długości jednostki.
 
-### Cennik opłat za postój jachtów gościnnych w trakcie sezonu 2024 roku
+### Cennik opłat za postój jachtów gościnnych w trakcie sezonu 2025 roku
 
 | Długość        | Cena                      |
 |---             |---                        |
@@ -61,9 +61,9 @@ Do 3h postój bezpłatny. Opłata postojowa za dobę zależna od długości jedn
 
 ### Opłaty dodatkowe
 
- - media (woda, prąd) - 20 zł / dzień
- - prysznic - 15 zł / sztuka,
- - stawianie i kładzenie masztu – 120 zł
+- media (woda, prąd) - 20 zł / dzień
+- prysznic - 10 zł / sztuka,
+- stawianie i kładzenie masztu – 150 zł
 
 ### Pozostałe opłaty
 

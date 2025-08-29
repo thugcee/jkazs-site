@@ -40,11 +40,12 @@ corner but to get there you have to leave through the main gate at west.
 A bay in the southwestern part of Lake Dąbie Małe.
 
 Location on maps: [OpenStreetMap](https://www.openstreetmap.org/node/2396250849), [Google Maps](http://maps.google.com/maps/ms?ie=UTF8&hl=en&t=h&msa=0&msid=107138309144250252667.00047ce94cdeb26e4583f&ll=53.396458,14.621472&spn=0.008956,0.018239&z=15&source=embe)
+
 ## Parking conditions
 
 Free parking for up to 3 hours. The parking fee per day depends on the length of the unit.
 
-### Price list of fees for the berthing of guest yachts during the 2024 season
+### Price list of fees for the berthing of guest yachts during the 2025 season
 
 | Length       | Price            |
 |---           |---               |
@@ -59,9 +60,9 @@ Free parking for up to 3 hours. The parking fee per day depends on the length of
 
 ### Additional fees
 
-  - utilities (water, electricity) - PLN 20 / day
-  - shower - PLN 15 / piece,
-  - erecting and laying down the mast - PLN 120
+- utilities (water, electricity) - PLN 20 / day
+- shower - PLN 10 / piece,
+- erecting and laying down the mast - PLN 150
 
 ### Other fees
 
@@ -88,7 +89,7 @@ Mast crane, tavern, boat repair workshop, AST Sails sailhouse on site, gas stati
 
 **Slipping on the metal slip is prohibited** for yachts with trailers, scooters and motorboats.
 
-## Booking a guest stay.
+## Booking a guest stay
 
 Although it rarely happens that we have to refuse someone a guest berth at our
 marina due to lack of places, we meet the expectations of those of you who want
@@ -97,10 +98,10 @@ you that we do not have any free residential places.
 
 If you are interested in booking a place, setting a date for erecting the mast,
 etc., please send your expectations to the e-mail address:
-booking.azs@gmail.com. You should receive confirmation of your reservation no
+[booking.azs@gmail.com](mailto:booking.azs@gmail.com).
+You should receive confirmation of your reservation no
 later than the next business day (the office is open until 4 p.m.).
 
 In urgent situations, when, for example, you want to make sure that parking
 will be possible in the coming hours, please contact the Bosman by phone: +48
 600 233 221.
-
