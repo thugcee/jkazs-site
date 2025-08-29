@@ -83,7 +83,7 @@
                             {{ partial "helper/icon" "language" }}
                             <ul name="language" title="language" onchange="window.location.href = this.selectedOptions[0].value">
                                 {{ range . }}
-                                    <li><a href="{{ .Permalink }}" class="{{ if eq .Language.Lang $currentLanguageCode }}selectedLanguage{{ end }}">{{ .Language.LanguageName }}</a></li>
+                                    <li><a href="{{ .RelPermalink }}" class="{{ if eq .Language.Lang $currentLanguageCode }}selectedLanguage{{ end }}">{{ .Language.LanguageName }}</a></li>
                                 {{ end }}
                             </ul>
                         </li>
