@@ -27,7 +27,7 @@ hidden: true
    przekroczą termin wpłaty półrocznej, płacą za dane półrocze opłaty miesięczne.
 1. Zniżka dla pracowników Zachodniopomorskiego Uniwersytetu Technologicznego –
    20%.
-1. Opłaty miesięczne za postój w hali dla członków klubu: 14 zł/m² \+ opłata za
+1. Opłaty miesięczne za postój w hali dla członków klubu: 14 zł/m² plus opłata za
    energię elektryczną (wg wskazań podlicznika) + opłata za śmieci.
 1. Opłaty dla członków klubu przeprowadzających prace remontowe poza halą:
    opłata za energię elektryczną (wg wskazań podlicznika) + opłata za śmieci.
