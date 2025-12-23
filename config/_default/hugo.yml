@@ -8,6 +8,11 @@ build:
 pagination:
   pagerSize: 10
 
+imaging:
+  resampleFilter: Lanczos
+  quality: 88
+  anchor: smart
+
 defaultContentLanguageInSubdir: false
 defaultContentLanguage: pl
 languages:

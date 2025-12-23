@@ -54,3 +54,11 @@ section img {
   --tr-even-background-color: #f9f9fc;
   --blockquote-background-color: rgb(247, 240, 240);
 }
+
+.author-attribution {
+  text-align: right;
+  font-style: italic;
+  margin-top: -1rem; /* Adjust spacing */
+  color: #666;
+  font-size: 0.95em;
+}
