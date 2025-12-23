@@ -1,0 +1,33 @@
+<!-- layouts/shortcodes/debug-page.html -->
+<div style="background: #f5f5f5; padding: 1rem; border-radius: 8px; font-family: monospace; font-size: 0.9rem;">
+    <h4 style="margin-top: 0;">Page Debug Info</h4>
+    
+    <p><strong>Page Path:</strong> {{ $.Page.File.Path }}</p>
+    <p><strong>Bundle Type:</strong> {{ $.Page.BundleType }}</p>
+    <p><strong>Page Type:</strong> {{ $.Page.Type }}</p>
+    <p><strong>Kind:</strong> {{ $.Page.Kind }}</p>
+    
+    <h5>Resources ({{ len $.Page.Resources }}):</h5>
+    {{ if $.Page.Resources }}
+    <ul style="margin-left: 1rem;">
+        {{ range $.Page.Resources }}
+        <li>
+            {{ .Name }} 
+            ({{ .ResourceType }}, {{ .MediaType.Type }})
+            {{ if eq .ResourceType "image" }}- {{ .Width }}x{{ .Height }}{{ end }}
+        </li>
+        {{ end }}
+    </ul>
+    {{ else }}
+    <p>No resources found in page bundle</p>
+    {{ end }}
+    
+    <h5>Site Data Files Available:</h5>
+    <ul style="margin-left: 1rem;">
+        {{ range $key, $value := $.Site.Data }}
+        <li>{{ $key }}</li>
+        {{ else }}
+        <li>No data files found</li>
+        {{ end }}
+    </ul>
+</div>
