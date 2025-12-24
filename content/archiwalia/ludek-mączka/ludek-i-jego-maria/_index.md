@@ -5,14 +5,14 @@ layout: single
 hidden: true
 ---
 
-![od lewej: Wojciech Jacobson, Zygmunt Biernacik, Ludomir Mączka](ludek-mączka/ludek-i-jego-maria/maria1.jpg)
+![od lewej: Wojciech Jacobson, Zygmunt Biernacik, Ludomir Mączka](maria1.jpg)
 
 DWA ZDJĘCIA Z 1973 ROKU - „MARIA PRZED WYPŁYNIĘCIEM W DALEKI REJS Jeszcze na
 lądzie, jeszcze trwają przygotowania jachtu, a Ludek Mączka , przed
 wypłynięciem w rejs życia, niczym hinduski guru, skupia wokół siebie grono
 gorliwych słuchaczy.
 
-![od lewej: Zygmunt Biernacik, Wojciech Jacobson, Michał Jósewicz, Ludomir Mączka, Andrzej Marczak](ludek-mączka/ludek-i-jego-maria/maria2.jpg)
+![od lewej: Zygmunt Biernacik, Wojciech Jacobson, Michał Jósewicz, Ludomir Mączka, Andrzej Marczak](maria2.jpg)
 
 A mógł nim być, wszak miał za sobą udział w tak znaczących rejsach jak:
 „Witeziem" na Islandię w 1959 roku czy „Śmiałym" do obu Ameryk w latach 1965 —
@@ -38,14 +38,14 @@ Trzeba było, do potrzeb fotografii, zrobić go jeszcze raz.
 
 Tekst: Zenon Szostak (ZŻ-Nr 2)
 
-![Maria](ludek-mączka/ludek-i-jego-maria/maria4xy.jpg)
-![Maria](ludek-mączka/ludek-i-jego-maria/maria1xy.jpg)
-![Ludomir](ludek-mączka/ludek-i-jego-maria/maria2xx.jpg)
+![Maria](maria4xy.jpg)
+![Maria](maria1xy.jpg)
+![Ludomir](maria2xx.jpg)
 
-![Ludomir](ludek-mączka/ludek-i-jego-maria/maria3xy.jpg)
+![Ludomir](maria3xy.jpg)
 
 ![Po lewej Ludek pod "baobabem". 100-letnia wierzba w JK AZS patrzy na pirs
 gdzie przed laty stała "Maria" gotowa do swojej pierwszej wielkiej wyprawy,
 a na drugim końcu ławeczki Gosia Krautschneider, która pomagała Ludkowi w
 przygotowaniach do pierwszego rejsu Marii. Zdjęcie z 8 września
-2005 r.](ludek-mączka/ludek-i-jego-maria/baobab.jpg)
+2005 r.](baobab.jpg)

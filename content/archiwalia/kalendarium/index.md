@@ -9,7 +9,7 @@ hidden: true
 Zobacz też: 
 
 * [Kalendarium regatowe](../kalendarium-regatowe/) oraz
-* [Komandorzy Jacht Klubu AZS w Szczecinie od 1946 r.](../../sprawy-klubowe/komandorzy/)
+* [Komandorzy Jacht Klubu AZS w Szczecinie od 1946 r.]({{< relref "/sprawy-klubowe/komandorzy/" >}})
 
 # Kalendarium JK AZS
 

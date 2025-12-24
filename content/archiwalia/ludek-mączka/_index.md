@@ -9,7 +9,7 @@ Dnia 30 stycznia 2006 r. umarł w Szczecinie w wieku 77 lat **Ludomir Mączka** 
 
 Drogę ku Wielkiej Przygodzie rozpoczął we Wrocławiu w 1946 r. jako student geologii na Wydziale Nauk Przyrodniczych Uniwersytetu Wrocławskiego. Z czasów studenckich zapamiętałem go jako niewysokiego, szczupłego chłopca w drucianych okularach, z przerzuconą przez ramię nieodłączną parcianą torbą po masce gazowej. Nosił w niej notatki i cały swój dobytek, w tym wystającą z torby pompkę do roweru. Ruchliwy, pogodny, z kpiącym uśmieszkiem. Koledzy przezwali go "Ludojad", ale chyba przez przekorę, bo w gruncie rzeczy był bardzo koleżeński, przyjaźnie nastawiony do ludzi. Był jednym z trzech pierwszych po wojnie absolwentów geologii Uniwersytetu Wrocławskiego. Studia ukończył w 1951 r. Jego praca dyplomowa zawierała opracowanie wyników pomiarów spękań skalnych w Masywie Ślęży. Z humorem podchodził do tej pracy, mówiąc, że Masyw Ślęży to w gruncie rzeczy "ogromna kupa kamieni usypana przez lodowiec". Mówiliśmy z rozbawieniem o "teorii Ludojada" wyjaśniającej pochodzenie Ślęży.
 
-![Ludomir Mączka](ludek-mączka/ludek3.jpg)
+![Ludomir Mączka](ludek3.jpg)
 
 Po ukończeniu studiów przez jakiś czas pracował w Dolnośląskiej Stacji Terenowej Państwowego Instytutu Geologicznego we Wrocławiu, potem w Instytucie w Warszawie, aż w końcu przeniósł się do Szczecina, aby być bliżej morza. Stąd w 1957 r. wyruszył jako członek załogi jachtu "Zew Morza" w pierwszy po wojnie rejs do Narwiku. W dwa lata później był zastępcą kapitana w rejsie do Islandii na drewnianym jachcie "Witeź".
 
@@ -17,13 +17,13 @@ Z początkiem lat sześćdziesiątych przekorny los rzucił go w sam środek kon
 
 Po przygodzie mongolskiej Ludomir wrócił do Szczecina. Już wkrótce, bo w 1966 r., rozeszła się po Polsce wiadomość, że na jachcie "Śmiały" przepłynął Cieśninę Magellana jako uczestnik wyprawy Polskiego Towarzystwa Geograficznego dookoła Ameryki Południowej. Po zakończeniu wyprawy "Śmiałego" wyruszył znowu, w 1968 r., w szeroki świat, tym razem do Afryki, do Zambii. Tu pracował jako geolog do 1972 r. Za zarobione pieniądze kupił i wyremontował 11-metrowy kecz "Maria". Na tym jachcie rozpoczął rejs, który był spełnieniem jego marzeń młodości - wielki rejs włóczęgi mórz i oceanów i trwał od 1973 do 1984 r. W tym czasie Ludomir Mączka pokonał na jachcie "Maria" 70 tysięcy mil morskich, w tym 1500 mil samotnie. Przez pokład jachtu przewinęło się 50 osób zmieniającej się załogi z 12 narodowości, w tym 20 Polaków. Wielkie żeglowanie Ludomira Mączki było obok rejsu Leonida Teligi jedną z pierwszych wypraw prywatnych, wyprawą podjętą przez człowieka wolnego, na własny koszt i ryzyko.
 
-![Ludomir Mączka](ludek-mączka/ludek4.jpg)
+![Ludomir Mączka](ludek4.jpg)
 
 Osiągnięcia żeglarskie Ludomira Mączki są trudne do wyobrażenia. Przeżeglował jachtem blisko 200 tysięcy mil morskich, przepłynął ośmiokrotnie Atlantyk, czterokrotnie Pacyfik, trzykrotnie Ocean Indyjski, okrążył Australię, przedzierał się na małym jachcie przez lody Arktyki. Za tymi suchymi relacjami o osiągnięciach i przebytych milach morskich kryją się lata zmagań z groźnymi żywiołami i własną słabością, spotkania z niezwykłymi ludźmi, przeżycia nieprawdopodobnych przygód, własnych triumfów i klęsk. Niewielka tylko część dokonań i przeżyć tego Wielkiego Podróżnika została utrwalona, m.in. w trzech filmach TV, pięciu książkach i kilku wystawach.
 
 Ludomir Mączka szczególnie wysoko cenił sobie niezależność. Był człowiekiem naprawdę wolnym. Nie zabiegał o względy możnych tego świata, nie dbał o tytuły i wyróżnienia, a przecież przyznano mu ich wiele. Spośród najbardziej znaczących należy wymienić nagrodę podróżniczą "Super Kolos 2001", przyznaną w 2002 r. za rejsy na "Marii", oraz nagrodę "Conrady 2003" - "za życiową wędrówkę po morzach i oceanach z żeglarską wolnością, przyjaźnią i radością życia pod rękę". Ludomir był członkiem Bractwa Wybrzeża nr 6 - brat "Monje del Mar" ("Mnich Morski"), był członkiem honorowym wielu klubów żeglarskich, polskich i zagranicznych.
 
-![Grób](ludek-mączka/ludek1x.jpg)
+![Grób](ludek1x.jpg)
 
 6 lutego 2006 r. żegnali Ludomira Mączkę na Cmentarzu Centralnym w Szczecinie członkowie wielkiej rodziny żeglarskiej i rzesza zwykłych ludzi. Ostatnią posługę oddało mu trzech księży - żeglarzy bądź duszpasterzy środowisk żeglarskich, przedstawiciele miasta, żeglarze z Polski i z zagranicy, przedstawiciel Państwowego Instytutu Geologicznego, kapitanowie, marynarze i rybacy. Szczecińska prasa drukowała artykuły o Ludomirze, nekrologi i obszerne relacje z uroczystości pogrzebowych.
 
@@ -37,7 +37,7 @@ Urna z prochami Podróżnika - Kapitana Żeglugi Morskiej Ludomira Mączki zło�
 * [Morskie opowieści](http://morze-morze.tvts.pl/category/zeglarskie/zeglarze-wybitni/ludomir-maczka/)
 * [Ludojad wychodzi w morze](ludojad-wychodzi-w-morze) - Aleksander Rybczyński
 
-![Ludomir](ludek-mączka/ludek1.jpg)
+![Ludomir](ludek1.jpg)
 
 ## Ludek i jego 'Maria' - początek wielkiej przygody
 
@@ -246,7 +246,7 @@ e-mail: [izywec@op.pl](mailto:izywec@op.pl)
 
 * * *
 
- ![](ludek-mączka/pogx.jpg)
+ ![](pogx.jpg)
 
  W dniu 6 lutego, 2006 w czasie porannego podniesienia bandery, bandera zostala podniesiona do topu flagsztoku, nastepnie opuszczona do polowy masztu i tak pozostala do godziny 1800 - do zmroku. Zaloga uczcila pamiec "Ludojada" minuta ciszy.
 
@@ -300,7 +300,7 @@ e-mail: [halusia55@poczta.fm](mailto:halusia55@poczta.fm)
 
 Jeszcze rok temu byles na moich urodzinach i taklowalismy Marie przy "Gato Negro" na nastepny rejs, a teraz zeglujesz gdzies tam w Hilo a Maria ciagle czeka. To co ponizej, napisalem dla Niej i dla Ciebie.
 
-![](ludek-mączka/1x.jpg)
+![](1x.jpg)
 
 ODA DO MARII
 
@@ -319,7 +319,7 @@ RWIE DO OJCZYZNY, PROSTO, UKOSEM
 SZCZECIN ICH WITA I NIE WIE JESZCZE
 ZE TO NIE KONIEC, I TO NA SZCZESCIE
 
-![](ludek-mączka/2x.jpg)
+![](2x.jpg)
 
 NOWA WYPRAWA SIE TU SZYKUJE
 CO ZNOWU W KOLO ,TO TEZ KOSZTUJE
@@ -534,7 +534,7 @@ Still steadies with an upright kill."
 
 Prawie każdy żeglarz wzorował się na kimś i był pod czyimś wpływem. Tylko nieliczni, jak kpt. Ludomir Mączka nie mają z nikim ani z niczym bezpośrednich związków. Dlatego nie żeglował nigdy w stylu innych wielkich żeglarzy -- nie tyka się świętości.
 
-![](ludek-mączka/LM-Chrobryx.jpg) W dobie 'demokracji ludowej' uważano, że robi on niepotrzebne i beznadziejne wyczyny, tak było to odmienne od wszystkiego co wówczas robiono. Swoim żeglowaniem prowokował do sprzeciwu nie mniej jak swoim stylem życia. Ale przecież łacińskie 'provocare' znaczy: znaczy do pójścia naprzód. Szedł naprzód nie oglądając się za siebie, nikogo nie naśladował.
+![](LM-Chrobryx.jpg) W dobie 'demokracji ludowej' uważano, że robi on niepotrzebne i beznadziejne wyczyny, tak było to odmienne od wszystkiego co wówczas robiono. Swoim żeglowaniem prowokował do sprzeciwu nie mniej jak swoim stylem życia. Ale przecież łacińskie 'provocare' znaczy: znaczy do pójścia naprzód. Szedł naprzód nie oglądając się za siebie, nikogo nie naśladował.
 
 Ludek wspominał, jak kiedyś w rozmowie z nieznanym mu rybakiem, widzącym go płynącym na tak małym jachcie usłyszał, że jest jeszcze głupszy niż rybacy: "Płynie i jeszcze nikt mu za to nie płaci." Dla Ludka był to szczególny komplement, który prawił, że ma większą namiętność do morza niż rybacy.
 
@@ -722,7 +722,7 @@ e-mail: [kowal@ol.home.pl](mailto:kowal@ol.home.pl)
 
 * * *
 
- ![](ludek-mączka/2.jpg) Ludek - to było czterdzieści lat temu - znajduję zapis w moim dzienniku: "Buenos Aires 5 styczeń 1966: Bolek i KW jadą do ambasady po listy. Przywożą listy i Mączkę, który tu czeka od 17 grudnia. Ludek przejmuje forpik i sprawy nawigacji..." Tak przystałeś na 10 miesięcy na pokład Śmiałego. Tak się poznaliśmy i wiem, że jeżeli się kiedyś spotkamy bedziemy znów razem jeść czosnek i ciagnąć Yerba Mate z jednej bombilli... Pomyślnych wiatrow mój Bracie
+ ![](2.jpg) Ludek - to było czterdzieści lat temu - znajduję zapis w moim dzienniku: "Buenos Aires 5 styczeń 1966: Bolek i KW jadą do ambasady po listy. Przywożą listy i Mączkę, który tu czeka od 17 grudnia. Ludek przejmuje forpik i sprawy nawigacji..." Tak przystałeś na 10 miesięcy na pokład Śmiałego. Tak się poznaliśmy i wiem, że jeżeli się kiedyś spotkamy bedziemy znów razem jeść czosnek i ciagnąć Yerba Mate z jednej bombilli... Pomyślnych wiatrow mój Bracie
 
 Jerzy Knabe
 e-mail: [j_knabe@yahoo.com](mailto:j_knabe@yahoo.com)
