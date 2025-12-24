@@ -11,4 +11,4 @@ Ustalony został cennik dla członków klubu na rok 2024, tj. opłaty postojowe,
 
 W związku z obecną sytuacją ekonomiczną (rosnące ceny mediów, inflacja) istnieje możliwość modernizacji cennika w drugiej połowie roku.
 
-[ Link do cennika ]( ../../../page/sprawy-klubowe/opłaty-dla-członków )
+[ Link do cennika ]({{< relref "/sprawy-klubowe/opłaty-dla-członków" >}}) 
