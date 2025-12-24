@@ -330,7 +330,7 @@
   birth: 1926
   death: 2018
   photo: "no-image"
-  author: "mj"
+  author: "Michał Jósewicz"
   description: |
     Nasz były Kolega Klubowy. Był aktywny w Klubie w latach 50-tych (pływał na Finnie) oraz w latach 90-tych był związany z maszoperią Gaudeamusa.
 
@@ -851,6 +851,8 @@
   description: |
     Bibek, tak Go nazywali przyjaciele, dużo pływał na jachtach klubowych - na "Swantewicie", "Witeziu II" - dookoła Anglii (to był wtedy wyczyn); pochodził z Kresów, ze Lwowa; podobnie jak Emil Teczek Żychiewicz, jak Ludek Mączka. Żeby lepiej zrozumiec te rejsy to trzeba przypomnieć, że "Witeź" nie miał ... silnika, a Bibek przepłynął "Witeziem" Kanał Kaledoński!! - na burłaka ...
 
+    [więcej](https://jkazs.szn.pl/stara-strona/content/bogumi%C5%82-piero%C5%BCek-1923-2004.html)
+
 - name: "Kazimierz Pogonowski"
   birth: 1928
   death: 2004
@@ -862,6 +864,8 @@
     Przez dlugie lata z żeglarstwem związany zawodowo. Pracował w Szcz. Stoczni Jachtowej, później w Politechnice Szczecińskiej.
 
     Pływał na wszystkich łódkach klubowych - Tuńczyku, Meduzie, Maćku, Kaczorku, Ewie-Kani, Bialym Słoniu-Przodowniku-Nadirze, Witeziu, Starze (Delfin), Dragonach, Folkboatach.
+
+    [więcej](http://www.jkazs.szczecin.pl/memory/pogonowski/ekran01.htm)
 
 - name: "Zbigniew Jałtoszuk"
   birth: 1949
@@ -889,7 +893,7 @@
   description: |
     Przez wiele lat opiekun jachtu KANIA. Organizator obozów żeglarskich dla studentów. Podczas rejsów po zalewie studenci zbierali materiały o portach, podejściach i wszystko co było potrzebne aby na ich podstawie powstała pierwsza turystyczno-żeglarska mapa Zalewu Szczecińskiego i jeziora Dąbskiego do dziś używana przez żeglarzy.
 
-    mapa opracowana przez B. Derejczyka
+    [brakuje: mapa opracowana przez B. Derejczyka]
 
 - name: "Zenon Dmochowski"
   birth: 1927
@@ -899,10 +903,20 @@
   description: |
     Żeglarz - dziennikarz - fotoreporter W Klubie od 1949, szczegolnie aktywny w latach 1950-tych, kiedy fotografował i opisywał ważniejsze zawody i wydarzenia żeglarskie (w których sam brał udział). W 1973 opublikował w "Ziemi i Morzu" słynny wywiad z Ludkiem Mączka pt. "Kaprys Milionera"
 
+    Dla Zenka Dmochowskiego. Ku pamięci
+
+    <img src="images/dmochowski1.jpg" 
+     alt="Jan Waraczewski"
+     style="width: 200px; margin: 9px; float: left;"> Jak mogłam się poczuć, gdy wreszcie dotarłam do mojego przyjaciela z młodzieńczych lat i na moje zapytanie, czy jest Zenek Dmochowski, od młodego chłopaka dostaję odpowiedź "On już od 2002 leży na Cmentarzu Centralnym". 
+
+    Z ksiązką w ręku, którą chciałam mu podarować, gdzie wiersz jest przezemnie o nim napisany, wracam do samochodu - rozerwana-smutna, dlaczego żaden z moich przyjaciół żeglarzy, którzy go znali nie powiedzieli mi "Zenek nie żyje". Czy nie dotarła do nich wieść o jego śmierci? Redaktor, fotoreporter Głosu Szczecińskiego, żeglarz odznaczony uczestnik powstania warszawskiego - poeta. Cóż z tego, że był komunistą, on był idealistycznym komunistą, pomagał innym, skrzywdzonym przez wojnę i komunę, stojący nieraz przed bramą stoczni szczecińskiej w czasie walk Solidarności. Z takim życiorysem można zwariować. W roku 1979 odwiedził mnie niespodziewanie w Hamburgu, gdzie wówczas mieszkałam. W tym czasie stałam sama jak wyrzutek społeczeństwa po złamanym małżeństwie, wtedy też mogłam zwariować. On mnie pocieszał, chociaż sam był w rozterce bo uciekł z Włoch będąc w towarzystwie, którego głupiego gadania nie mógł wytrzymać. Pomogłam mu kupić jakieś stare futro, dla jednej z jego pań, z którymi za dużo szczęścia nie zaznał. Jego życie jest dla mnie utkane przerywkami ale wiem na pewno, że był to człowiek pisany przez duże "C", wszyscy wiemy jak mało idealistów zostało na tym świecie.
+
+    <p class="author-attribution">M Trzebawie 29.09.2005, Maryla Grochowska - Thomsen</p>
+
 - name: "Bogdan Dominiuk"
   birth: 1951
   death: 2002
-  photo: "blank1.jpg"
+  photo: ""
   author: "ag"
   description: |
     Należał do czołówki szczecińskich trenerów żeglarstwa. Wychował i nauczył wygrywania zawodów z wiatrem i wodą kilkuset, a może i większą grupę młodych ludzi, którzy garnęli się do tego sportu w LKS Pomorze Stargard, w szczecińskim AZS i Pogonii.
@@ -935,7 +949,7 @@
 
     "... na egzaminie na żeglarza trafiłem na Teczka Żychiewicza i zadał mi trzy pytania, i na te trzy pytanie odpowiedziałem "nie wiem". Teczek się popatrzył i powiedział: "no to kolego pojutrze na pływanie". Później Go pytałem czemuś mnie nie wyrzucił na zbita mordę - "a bo ja mam duszę personalnika i wiedziałem, że z Ciebie będzie żeglarz" ..."
 
-    Ludek Mączka, wywiad 1.12.2003
+    <p class="author-attribution">Ludek Mączka, wywiad 1.12.2003</p>
 
 - name: "Jerzy Józewicz"
   birth: 1930
@@ -944,6 +958,8 @@
   author: "po"
   description: |
     mgr inż., harcerz, żeglarz, jacht. sternik morski. Praca: Biuro Projektów Budownictwa Wiejskiego (1955), Biuro Projektów Budownictwa Morskiego, Urząd Miejski (do 1994). W Szczecinie od 1945 r., ze szczecińskim żeglarstwem związany od połowy 1946r.; członek Czarnej 7 Wodnej Drużyny Harcerskiej im "Zawiszy Czarnego", YKP (1949), SŻ AZS (1950), JK AZS. Brał udział w szkoleniach w ośrodkach żeglarskich - Trzebież 1947, Jastarnia 1948, a następnie w Mistrzostwach Polski, m. in. kl. "Dragon", Mistrzostwach Okręgu; Mistrz Okręgu Szczec. w klasie "H". Uczestnik wielu regat: Regat Jesiennych o "Błękitną Wstęgę Jeziora Dąbskiego" (1950), I Długodystansowych Regat Dąbie-Wicko-Dąbie" - I m. na s/y Kania (1951), Regat Pokoju (1952), Ostseewoche w Warnemunde - II m., s/y "Witeź II", z kpt. K. Haską w kl. od 7 do 9 KR (1956), Stralsunderwoche (1956), Etapowych Regat Turystycznych Świnoujście - Gdynia na Operację Żagiel (1974) i inn. Rejsy głównie po M. Bałtyckim, ale także na M. Czarnym, M. Śródziemnym. Pływał na jachtach: "Przygoda", "Wicher", "Witeź II", "Kaczorek", "Przodownik", "Kania", "Kasjopea", "Gryfita", "Pegaz". Odznaczony Srebrnym Krzyżem Zasługi i Odznaka Gryfa Pomorskiego, "Zasłużony Działacz Żeglarstwa Polskiego".
+
+    [więcej](https://jkazs.szn.pl/stara-strona/content/jerzy-j%C3%B3sewicz.html)
 
 - name: "ks. Adam Barcz"
   birth: 1959
@@ -960,6 +976,8 @@
     Potem przebywał w Stanach Zjednoczonych i Kanadzie jako duszpasterz polonijny i kapelan Chorągwi Harcerzy na Kanadę.
 
     Na cmentarzu w Szczecinie-Zdroje wśród wielkich tłumów żegnały Go trzy wielkie rodziny, do których należał - najbliżsi krewni i przyjaciele, rodzina zakonna, parafialna z delegacjami z wszystkich miejsc w których pracował i rodzina żeglarska.
+
+    [więcej](https://jkazs.szn.pl/stara-strona/content/adam-barcz-1959-2001.html)
 
 - name: "prof.dr inż. Tomisław Matyszewski"
   birth: 1911
@@ -994,6 +1012,8 @@
   author: "wj"
   description: |
     doskonały żeglarz, przyjazny wszystkim i przez wszystkich lubiany Człowiek j.kpt ż.w. Jerzy Madeja. Do końca aktywny - jeszcze w Niedzielę Palmową uzgadniał program poniedziałkowego zebrania zarządu Klubu. Zebrania już nie doczekał. Zmogła Go nieuleczalna choroba, z którą walczył od dłuższego czasu.
+
+    [więcej](https://jkazs.szn.pl/stara-strona/content/jerzy-madeja-0.html)
 
 - name: "Jerzy Wasylik"
   birth: 1947
@@ -1037,13 +1057,11 @@
   birth: 1952
   death: 2000
   photo: "domanski.jpg"
-  author: ""
+  author: "Marek Lewenstein"
   description: |
     ...Michał Domański- Dzięki niemu wiosną 69 trafiłem do AZS. Razem zdawaliśmy maturę w LO VI. Wcześniej żeglował na Hornecie i FD w "Pogoni." W AZS na Finnie i na Starze z Januszem Kędzierskim (przynajmniej 1 medal MP) od 70 pływaliśmy razem w podstawowym składzie na "Dal II". Razem w 72 zdaliśmy na j.st.m.
 
     Po studiach wyjechał do Szwecji gdzie pracował jako lekarz ortopeda. Był armatorem kolejnych jachtow w Szwecji i Turcji. Wczasie studiow reprezentował PAM w narciarstwie alpejskim. W trakcie wyjazdu na narty niespodziewanie dopadł Go zawał.
-
-    Marek Lewenstein
 
 - name: "Joanna Pawluk"
   birth: 1949
@@ -1085,13 +1103,11 @@
   birth: 1918
   death: 1998
   photo: "wodzynski.jpg"
-  author: ""
+  author: "Z.Ostrowski"
   description: |
     Żeglować zaczął w roku 1935, najpierw na pobliskiej Bzurze, później na Wiśle - już jako harcerz warszawskiej "9-ki". Jesienią 1946, czekając na inaugurację pierwszej w dziejach Szczecina Wyższej Uczelni, organizuje sekcję żeglarską AZS i zostaje jej kierownikiem. Popularny i skutecznie działający Felek pozostał szefem także po przejściu Sekcji do Akademickiego Związku Morskiego. Za jego czasów zorganizowano przystań na Gocławiu, z poniemieckich wraków powstały pierwsze jachty, ruszyło szkolenie i pływania.
 
     Po studiach współorganizował inne kluby, w ich ramach działał i żeglował. Wszyscy znali Felka, a dźwięki wykonywanego na okarynie walca Brahmsa były znakomitą jego wizytówką. Od lat melodie grane na tym glinianym (ponoć 160-letnim) instrumencie towarzyszyły otwarciom sezonów w Jacht Klubie AZS i żegnały odchodzących na zawsze kolegów. 30 stycznia Cmentarz Centralny nie usłyszał okaryny i - pewnie - nigdy już jej nie usłyszy. Żal Człowieka i ginącej wraz z Nim cząstki kolorytu szczecińskiego żeglarstwa.
-
-    Z.Ostrowski
 
 - name: "Andrzej Nykiel"
   birth: 1932
@@ -1125,7 +1141,7 @@
 - name: "Zbyszek Hrynkiewicz"
   birth: 1931
   death: 1995
-  photo: "blank1.jpg"
+  photo: ""
   author: "jb"
   description: |
     Chyba spora przeszłość żeglarska, w Klubie pływał na Folkbocie.
@@ -1141,7 +1157,7 @@
 - name: "Aleksander Salomon"
   birth: 1935
   death: 1993
-  photo: "blank1.jpg"
+  photo: ""
   author: "wj"
   description: |
     Członek JK AZS w latach 1950-1960-tych
@@ -1151,6 +1167,30 @@
     W Klubie Olek pływał regatowo na Słonkach. Jego łódka odznaczała się starannym przygotowaniem i wieloma domorosłymi "patentami" (które nie zawsze działały).
     Po 1968 r wyjechał z Polski. Po okresie tułaczki osiadł w Nowym Yorku, gdzie był członkiem Polskiego Klubu Żeglarskiego. Przy różnych okazjach spotykał sie tam z Ludomirem Mączką.
     W roku 1991 przypłynął jachtem (na odcinku Anglia-Polska) do Gdyni i Szczecina z okazji Zlotu Jachtów Polonijnych. Zmarł rok czy dwa lata później.
+
+    > From: Victor<br>
+    > To: w.jacobson<br>
+    > Cc: JGB ; norbert_z ; Maciej Wydrowski<br>
+    > Sent: Friday, October 27, 2006 7:38 AM<br>
+    > Subject: Re: Ci co odeszli...<br>
+    >
+    > O Olku moge wspomniec za pomoca uwag Ludka ktory mnie w ubieglym roku wiele razy mowil o nim a sam Olka znalem bardzo dobrze.
+    > 
+    > Olek, ktorego spotkalem chyba to byl rok 1959 na Walach Chrobrego na zakonczenie regat o Puchar Zatoki Pomorskej plynal na Slonce z Mackiem Wydrowskim i wygrali wtedy Puchar w swojej klasie. Jego jacht wygladal nieskazitelnie: super czysty, wszystko sie blyszczalo, klar byl na 150% zawsze. Jak okreslil Bolek Lach to Olek byl "patenciarzem", szczeguly jachtu jak okucia byly wypracowane do perfekcji i mialy znamiono klasy swiatowej. Olek, sam byl modelarzem okretowym zatrudnionym w Stoczni Szczecinskej.
+    > 
+    > Byl on jednym z niewielu na swiecie w swojej klasie uznanym przez anglikow i amerykanow i dzieki jego pracy wiele projektow stoczni polskich uzyskalo miano leaderow na swiecie. Miedzy innymi to on pracowal juz w latach 60-tych nad projektem "Queen Mary II" gdzie polskie stocznie wykonaly czesc dziobowa tego statku dla Cunard'a na poczatku lat 2000.
+    > 
+    > Pozniej, wraz z Mackiem Wydrowskim plywalismy na Olka Slonce i Olka "patenty" ciagle nawalaly. W pewnym momencie na Zalewie Szczecinskim (w czasie regat) "wyladowalismy" na pokladzie Swatewida na wskutek naglego ostrzenia Slonki do wiatru w porywach wiatru.
+    > 
+    > Nie mniej Olka ludka byla "immaculate" pod kazdym wzgledem.
+    >
+    > Jak mnie relacjonowal Ludek w ubieglym roku, to w trakcie egzaminu na Sternika Morskiego Olek mial "zgryz" z Ludkiem. Ludek jak on sam to okreslil "wyglupil sie" w czasie egzaminu praktycznego zadajac Olkowi sytuacje bez wyjscia. Na to Olek wydal komende "Zagle w dul, rzucic kotwice". Jak pozniej Ludek okreslil to, ze to byla najbardziej sensowna decyzja Olka. Olek zdal egzamin.
+    > 
+    > W 1968 roku Olek zostal zmuszony opuscic Polske przez wladze komunistyczne na wskutek swojege semickiego pochodzenia.
+    > 
+    > Po wielu latach tulaczki "wyladowal" w polskim Chicago i "zakotwiczyl" przy polskim jacht klubie. Pomimo bardzo powaznego stanu zdrowia (rak pecherza i prostaty) uczeszczal na spotkania klubu z workiem drenazowym przyczepinym na pasku i nie stronil od plywania na jachtach!. Nie ulegal represji wlasnego zdrowia i robil co naprawde kochal.
+    >
+    > Victor
 
 - name: "Jerzy Janiszewski"
   birth: 1935
