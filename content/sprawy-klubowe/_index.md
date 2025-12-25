@@ -15,8 +15,7 @@ menu:
 - [RODO](rodo)
 - [Opłaty dla członków klubu](opłaty-dla-członków/)
 - [Akcesoria klubowe](akcesoria-klubowe/)
-- [Na wiecznej wachcie](na-wiecznej-wachcie)
-- [Na wiecznej wachcie - stara strona](https://jkazs.szn.pl/stara-strona/content/na-wiecznej-wachcie.html)
+- [Na wiecznej wachcie](na-wiecznej-wachcie). <small>Nadal dostępna jest też [wersja ze starej strony www](https://jkazs.szn.pl/stara-strona/content/na-wiecznej-wachcie.html)</small>
 - [Jachty związane z klubem](https://jkazs.szn.pl/stara-strona/content/jachty.html)
 
 ### Tytuły przelewów
