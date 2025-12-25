@@ -1,3 +1,18 @@
+- name: "Marek Kopczyński"
+  birth: 1940
+  death: 2024
+  photo: "Marek-Kopczyński.png"
+  author: "zs"
+  description: |
+    7 kwietnia 2024 r odszedł na wieczną wachtę nasz kolega klubowy Marek Kopczyński. Z Klubem był związany od lat młodzieńczych, od końca lat 1950. Jego pasją były motory i żegluga.  Żeglarstwo zaprowadziło go do kariery mechanika okrętowego. Pływając na statkach PŻM zdobywał kolejne kwalifikacje, aż do funkcji i stopnia starszego mechanika. 
+
+    Na naszej przystani trzymał swój, odkupiony z Trzebieży, jacht „Conrad 4” Następny, większy jacht „Abram”, trzymał w Łunowie, blisko swojego letniego zamieszkania.  
+
+    Jako mechanik udzielał rad przy budowie„Pogorii”.  Żeglował na wielu jachtach. Między innymi, również jako mechanik, na „Fryderyku Chopinie” wraz z kapitanami Ziemowitem Barańskim i Krzysztofem Baranowskim. .  
+    
+    Cześć Jego pamięci  !
+
+    
 - name: "Andrzej Sokołowski"
   birth: 1945
   death: 2023
@@ -822,8 +837,11 @@
   photo: "ludek1.jpg"
   author: "zs"
   description: |
-    - czy jest jeszcze ktoś, kto nie słyszał o Ludku, kto nie zna jego żeglarskich dokonań? Ludomir Mączka - sternik morski, ukończył Uniwersytet Wrocławski-geologię; uczestnik obozu żeglarskiego w Trzebieży w 1949 r. W Sekcji Żeglarskiej AZS Szczecin od 1952 roku, od 1955 roku na stałe mieszkał w Szczecinie. Tak było ... a potem... potem morza i oceany, i legenda polskiego żeglarstwa.
-    [więcej]({{< relref "/archiwalia/ludek-mączka/" >}})")
+    Czy jest jeszcze ktoś, kto nie słyszał o Ludku, kto nie zna jego żeglarskich dokonań? 
+
+    Ludomir Mączka - sternik morski, ukończył Uniwersytet Wrocławski-geologię; uczestnik obozu żeglarskiego w Trzebieży w 1949 r. W Sekcji Żeglarskiej AZS Szczecin od 1952 roku, od 1955 roku na stałe mieszkał w Szczecinie. Tak było ... a potem... potem morza i oceany, i legenda polskiego żeglarstwa.
+
+    [więcej]({{< relref "/archiwalia/ludek-mączka/" >}})
 
 - name: "Aleksander Stefan Lewicki"
   birth: 1924
@@ -1202,6 +1220,8 @@
     Przez długie lata pracował w Biurze Projektów Budownictwa Morskiego w Szczecinie na pl. Batorego.
     Żeglarstwem zainteresował się w trakcie studiów. Członkiem Jacht Klubu AZS w Szczecinie został od początku roku.1953 r. Aktywnie uczestniczył w pracach i życiu klubowym, był powszechnie lubiany. Uzyskane stopnie żeglarskie: - st.jachtowy (1955), j.sternik morski (1959), kapitan jachtowy (1965), kpt.j.ż.w. (1965). Posiadał też kwalifikacje instruktora żeglarstwa (1957); sędziego kl. I (1957)
 
+    [więcej](https://jkazs.szn.pl/stara-strona/content/jerzy-janiszewski-1935-1992.html)
+
 - name: "Kazimierz Chmielewski"
   birth: 1927
   death: 1991
@@ -1270,7 +1290,7 @@
 - name: "Wiktoria Wierzbowska"
   birth: 1909
   death: 1979
-  photo: "blank1.jpg"
+  photo: ""
   author: "jb"
   description: |
     wieloletni pracownik sekretariatu Klubu
@@ -1284,6 +1304,8 @@
     Kapitan Haska był członkiem AZS od końca 1951 roku. Postać to znacząca dla historii Jacht Klubu AZS, tak jak Feliks Wodzyński założyciel szczecińskiego oddziału AZM, czy kpt. Ziemowit Ostrowski. Zdobył dla AZS-u wiele nagród, z wicemistrzostwem Polski włącznie.
 
     W listopadzie 1956 roku, kapitan Haska został wybrany Prezesem-seniorem sekcji żeglarskiej AZS. Zajął się przygotowaniami do przekształcenia sekcji w klub, stał na czele komitetu założycielskiego. Współtworzył od grudnia 1956 roku Jacht Klub AZS, był jego pierwszym prezesem. W 1958 roku otrzymał "Honorowe członkowstwo JK AZS
+
+    [więcej](https://jkazs.szn.pl/stara-strona/content/kazimierz-haska.html)
 
 - name: "Tomasz Stachowicz"
   birth: 1932
