@@ -87,7 +87,7 @@
 }
 
 .person-photo-container.no-photo {
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    background: var(--card-background-darker);
     color: white;
 }
 
