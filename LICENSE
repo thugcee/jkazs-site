@@ -1,21 +1,45 @@
-MIT License
+LICENSE
 
-Copyright (c) 2021 Jimmy Cai
+This repository contains three distinct types of materials:
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+A. CODEBASE (Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International)
+   Applies to: Custom templates, CSS modifications, JavaScript files,
+                Hugo configuration files, build scripts, shortcodes,
+                and structural components created for this site.
+   Copyright © Seweryn Niemiec
+   Licensed under CC BY-NC-SA 4.0: https://creativecommons.org/licenses/by-nc-sa/4.0/
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+B. CONTENT
+   1. Content by Seweryn Niemiec (site admin) is licensed under CC BY-NC-SA 4.0
+      Articles, text, and original works created by Seweryn Niemiec are licensed
+      under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International.
+   
+   2. Other Content (All Rights Reserved)
+      Photographs, images, media files, guest articles, and other creative works
+      displayed on the website are © their respective authors, photographers, and creators.
+      They are included in this repository for website generation purposes only.
+      Reproduction, distribution, or modification requires explicit permission
+      from the respective copyright holders.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+C. THEME (GNU General Public License v3.0)
+   Hugo theme "Stack" © Jimmy Cai
+   Source: https://github.com/CaiJimmy/hugo-theme-stack
+   Licensed under the GNU General Public License v3.0
+
+---
+
+ADDITIONAL NOTES:
+
+1. This project uses the Hugo Stack theme which is GPL-3.0 licensed.
+   Any derivative work of the theme files must comply with GPL-3.0 requirements.
+
+2. Content available under CC BY-NC-SA 4.0:
+   - You may share and adapt with attribution
+   - Only for non-commercial purposes
+   - Must share under same license terms
+
+3. For permissions to use other content (not by Seweryn Niemiec),
+   please contact the respective creator directly.
+
+4. The GPL-3.0 license applies to the theme files and any modifications
+   made to them. Your original code may be licensed separately as noted above.
