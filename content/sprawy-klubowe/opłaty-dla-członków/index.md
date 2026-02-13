@@ -3,7 +3,7 @@ title: Opłaty dla członków klubu
 hidden: true
 ---
 
-## Cennik opłat za postój jachtów w 2025 roku
+## Cennik opłat za postój jachtów w 2026 roku
 
 | L.p. | dł. jachtu   | zł/1 miesiąc     | zł/1 rok | zł/pół roku (2 raty) |
 | ---- | ------------ | ---------------- | -------- | -------------------- |
@@ -45,9 +45,9 @@ hidden: true
      czerwca – II rata – 14,00 zł za m² za miesiąc,
    - płatność miesięczna (do 10 dnia każdego miesiąca) – 18,00 zł za m² za miesiąc.
 
-## Cennik opłat za boksy w 2025 roku
+## Cennik opłat za boksy w 2026 roku
 
-| NUMER BOKSU | POWIERZCHNIA w m² | OPŁATA ROCZNA<br>w 2025 roku |
+| NUMER BOKSU | POWIERZCHNIA w m² | OPŁATA ROCZNA<br> |
 | ----------- | ----------------- | ---------------------------- |
 | 1 - 24      | 0,5               | 190 zł                       |
 | 25 - 36     | 1                 | 240 zł                       |
@@ -62,7 +62,7 @@ hidden: true
 3. Od roku 2025 ulega podwyższeniu opłata za kładzenie/stawianie masztu dla
    członków klubu i będzie wynosić 55 zł.
 
-## Składki i opłaty członkowskie:
+## Składki i opłaty członkowskie
 
 - członkowie zwyczajni i emeryci 240 zł / rok
 - studenci 120 zł / rok
