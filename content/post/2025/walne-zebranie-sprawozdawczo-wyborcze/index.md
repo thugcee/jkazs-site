@@ -11,7 +11,7 @@ tags:
   - zebranie
 ---
 
-# Walne Zebranie Sprawozdawczo Wyborcze 2025
+## Walne Zebranie Sprawozdawczo Wyborcze 2025
 
 Zarząd Jacht Klubu AZS w Szczecinie zwołuje na dzień 29 marca 2025 r. na godz. 16:00 (pierwszy termin) oraz na 16:15 (drugi termin) Walne Zebranie Sprawozdawczo-Wyborcze Jacht Klubu AZS.
 

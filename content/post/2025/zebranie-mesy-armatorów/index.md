@@ -11,7 +11,7 @@ tags:
   - zebranie
 ---
 
-# Zebranie Mesy Armatorów 2025
+## Zebranie Mesy Armatorów
 
 Zebranie Mesy Armatorów odbędzie się 15 marca 2025 r. o godzinie 16:00 w Tawernie u Beatki.
 
