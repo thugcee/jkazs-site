@@ -11,7 +11,6 @@ tags:
   - postoje
 ---
 
-# Opłaty za postoje 2025
+## Opłaty za postoje 2025
 
 Informujemy, że w dniu 20.11.2024 Zarząd JK AZS podjął decyzję o niepodwyższaniu opłat za postoje jachtów oraz pozostałych opłat dla członków klubu w 2025 roku.
-
