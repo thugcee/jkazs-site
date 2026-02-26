@@ -1,5 +1,6 @@
 ---
 title: Sprawy klubowe
+date: 2026-02-26
 layout: single
 menu:
     main: 
@@ -22,10 +23,17 @@ menu:
 
 Każdorazowo w tytule przelewu powinny znaleźć się informacje, które pozwolą jednoznacznie zidentyfikować należność!
 
-Np. imię i nazwisko osoby (nie każda płatność dotyczy właściciela rachunku), nazwę jachtu, rodzaj płatności (postój, boks, wodowanie/slipowanie, kładzenie/stawianie masztu, czarter, składki, wpisowe, godziny statutowe itp.) oraz okres, jakiego dane należności dotyczą!
+Np. imię i nazwisko osoby (nie każda płatność dotyczy właściciela rachunku),
+nazwę jachtu, rodzaj płatności (postój, boks, wodowanie/slipowanie,
+kładzenie/stawianie masztu, czarter, składki, wpisowe, godziny statutowe itp.)
+oraz okres, jakiego dane należności dotyczą!
 
-Numer konta bankowego klubu:<br/>  **BOŚ S.A. O/Szczecin**<br/>
-**92 1540 1085 2098 5313 3504 0001**
+Numer konta bankowego klubu:
+
+```text
+BOŚ S.A. O/Szczecin
+92 1540 1085 2098 5313 3504 0001
+```
 
 ### Zaległe składki członkowskie i nie tylko
 
@@ -34,7 +42,7 @@ Zwracamy się z gorącym apelem o **pilne i regularne wpłacanie na konto Klubu 
 Zachęcamy członków klubu do kontaktu z biurem w celu sprawdzenia, za jaki ostatni okres odnotowane zostały składki członkowskie danej osoby.
 
 ### Adresy e-mail
+
 Prosimy o podawanie aktualnych adresów e-mail. Ułatwi to kontakt w sprawach organizacyjnych.
 
 Adres e-mail wraz z imieniem i nazwiskiem podawać proszę na adres: jkazs.szn@gmail.com lub osobiście w biurze Klubu.
-

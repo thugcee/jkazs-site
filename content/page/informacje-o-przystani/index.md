@@ -1,5 +1,6 @@
 ---
 title: Informacje o przystani i postoje gościnne
+date: 2026-02-26
 layout: single
 image: jkazs-map-osm-copped-small-square.png
 menu:
@@ -7,7 +8,6 @@ menu:
         weight: 2
         params:
             icon: beach
-date: 2022-09-07T00:20:50+01:00
 weight: 1
 ---
 
