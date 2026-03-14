@@ -11,8 +11,6 @@ tags:
   - wodowanie
 ---
 
-# Wodowanie 2025
-
 Dźwigi zaczynają pracę o godz. 8:00.
 Armatorzy i opiekunowie jachtów proszeni są o wcześniejsze przybycie.
 Przypominamy, że obecność armatora/opiekuna jachtu podczas wodowania jest obowiązkowa.

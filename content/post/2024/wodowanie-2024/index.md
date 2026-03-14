@@ -4,6 +4,8 @@ description: Pierwsze wodowanie odbędzie się 13 kwietnia, drugie 20 kwietnia.
 date: 2024-04-01
 categories:
     - Sprawy klubowe
+tags:
+  - wodowanie
 ---
 
 **13 kwietnia** - pierwsze wodowanie.
