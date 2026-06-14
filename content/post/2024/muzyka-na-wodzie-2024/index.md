@@ -1,8 +1,12 @@
 ---
-title: "Koncert Muzyka na wodzie"
+title: "Koncert Muzyka na wodzie 2024"
 description: 28 czerwca o godz. 21:00 zapraszamy na koncert Orkiestry Symfonicznej Filharmonii w Szczecinie - Muzyka na wodzie. Tym razem na przystani Jacht Klubu AZS nad Jeziorem Dąbie zabrzmią piosenki z repertuaru Heleny Majdaniec w nowej, orkiestrowej odsłonie. Wstęp na wydarzenie jest bezpłatny.
 date: 2024-06-14
 image: images/plakat.jpg
+categories:
+  - Koncert
+tags:
+  - muzyka
 ---
 
 # Koncert Orkiestry Symfonicznej Filharmonii w Szczecinie pt. Muzyka na wodzie

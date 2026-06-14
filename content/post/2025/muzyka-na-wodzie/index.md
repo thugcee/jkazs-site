@@ -1,12 +1,14 @@
 ---
-title: "Muzyka na wodzie Jana Waraczewskiego 2025"
+title: "Koncert Muzyka na wodzie Jana Waraczewskiego 2025"
 description: "W niezwykłej scenerii nad brzegiem jeziora zabrzmią zarówno utwory orkiestrowe, jak i poruszające arie operowe. Wystąpi Orkiestra Filharmonii w Szczecinie pod batutą Przemysława Neumanna, a solistą wieczoru będzie ceniony polski tenor – Rafał Bartmiński."
 date: 2025-05-08T00:40:02+02:00
 image: images/muzyka-na-wodzie-2025.png
 hidden: false
 draft: false
 categories:
-    - Koncert
+  - Koncert
+tags:
+  - muzyka
 ---
 
 ## Czas i miejsce

@@ -1,8 +1,10 @@
 ---
-title: "Muzyka Na Wodzie 2023"
-description: 
+title: "Koncert Muzyka Na Wodzie 2023"
+description: To już XXI edycja stworzonego przez Jana Waraczewskiego cyklu plenerowych koncertów Muzyka na wodzie. Tym razem dąbska przystań poniesie na swych falach największe przeboje filmowe, a do świata filmu przeniosą nas muzycy orkiestry West Side Sinfonietta.
 date: 2023-07-07T00:37:48+01:00
 image: 2031gallery_3_maxi.png
+categories:
+  - Koncert
 tags:
   - muzyka
 ---
