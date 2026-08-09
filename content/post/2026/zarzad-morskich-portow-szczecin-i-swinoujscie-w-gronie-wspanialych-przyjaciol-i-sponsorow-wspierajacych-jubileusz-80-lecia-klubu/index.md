@@ -3,9 +3,6 @@ title: "Zarząd Morskich Portów Szczecin i Świnoujście w gronie wspaniałych 
 description: To dla nas ogromne wyróżnienie i podtrzymanie wieloletniej tradycji, szczególnie, że Zarząd Morskich Portów Szczecin i Świnoujście SA objął stanowisko Głównego Partnera Koncertu.
 date: 2026-06-16T23:54:51+02:00
 image: images/port-featured-image.jpg
-hidden: false
-draft: false
-weight: 3
 tags:
   - muzyka
   - 80latJKAZS

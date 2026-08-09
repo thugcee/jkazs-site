@@ -3,9 +3,6 @@ title: "Pomorze Zachodnie patronem honorowym obchodów 80-lecia JKAZS"
 description: Urząd Marszałkowski Województwa Zachodniopomorskiego objął patronatem honorowym organizację koncertu “Muzyka na wodzie Jana Waraczewskiego” oraz całych obchodów 80-lecia Jacht Klubu AZS
 date: 2026-06-14T12:16:28+02:00
 image: images/wap-app-with-logo.jpg
-hidden: false
-draft: false
-weight: 2
 tags:
   - muzyka
   - 80latJKAZS
