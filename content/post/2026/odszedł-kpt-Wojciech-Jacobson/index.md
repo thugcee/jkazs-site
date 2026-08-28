@@ -9,4 +9,6 @@ categories:
     - Na wiecznej wachcie
 ---
 
-Więcej informacji dotyczących ostatniego pożegnania podamy wkrótce.
+Uroczystości pogrzebowe odbędą się 2 września 2026 roku o godz. 12.00 w Kaplicy Głównej na Cmentarzu Centralnym w Szczecinie.
+
+Msza święta zostanie odprawiona 2 września 2026 roku o godz. 10.30 w kościele pw. Przemienienia Pańskiego przy ul. Św. Kingi 3 w Szczecinie.
