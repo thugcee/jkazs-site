@@ -1,0 +1,78 @@
+local_backend: true
+backend:
+  name: 'git-gateway'
+  # repo: 'jklinson/hugo-with-decap-cms'
+  branch: 'master'
+  commit_messages:
+    create: 'Create {{collection}} “{{slug}}”'
+    update: 'Update {{collection}} “{{slug}}”'
+    delete: 'Delete {{collection}} “{{slug}}”'
+    uploadMedia: 'Upload “{{path}}”'
+    deleteMedia: 'Delete “{{path}}”'
+    openAuthoring: '{{message}}'
+media_folder: 'assets/img'
+public_folder: '/img'
+site_url: 'https://jkazs.szn.pl'
+i18n:
+  structure: multiple_files
+  locales: [pl, de, en]
+  default_locale: pl
+collections:
+  - name: 'pages'
+    label: 'Pages'
+    label_singular: 'Page'
+    folder: 'content/page'
+    create: true
+    format: 'frontmatter'
+    i18n: false
+    nested:
+      depth: 5
+      subfolders: true
+      summary: '{{slug}}'
+    fields:
+      - label: 'Title'
+        name: 'title'
+        widget: 'string'
+        hint: 'Tytuł postu i jednocześnie link do niego.'
+      - label: 'Description'
+        name: 'description'
+        widget: 'text'
+        hint: 'Ta treść pokaże się na liście postów pod tytułem postu.'
+      - label: 'Date'
+        name: 'date'
+        widget: 'datetime'
+        required: false
+        hint: 'Nadpisz datę utworzenia postu. Może być puste.'
+      - label: 'Body'
+        name: 'body'
+        widget: 'markdown'
+        hint: 'Głowna treśc postu. Wyświetlana po kliknięciu w post. W Formacie markdown.'
+  - name: 'posts'
+    label: 'Posts'
+    label_singular: 'Post'
+    folder: 'content/post'
+    path: '{year}/{slug}'
+    create: true
+    slug: '{{slug}}'
+    format: 'frontmatter'
+    nested:
+      depth: 5
+      summary: '{{title}}'
+    fields:
+      - label: 'Title'
+        name: 'title'
+        widget: 'string'
+        hint: 'Tytuł postu i jednocześnie link do niego.'
+      - label: 'Description'
+        name: 'description'
+        widget: 'text'
+        hint: 'Ta treść pokaże się na liście postów pod tytułem postu.'
+      - label: 'Date'
+        name: 'date'
+        widget: 'datetime'
+        required: false
+        hint: 'Nadpisz datę utworzenia postu. Może być puste.'
+      - label: 'Body'
+        name: 'body'
+        widget: 'markdown'
+        hint: 'Głowna treśc postu. Wyświetlana po kliknięciu w post. W Formacie markdown.'
