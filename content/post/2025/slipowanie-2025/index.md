@@ -1,5 +1,5 @@
 ---
-title: "Slipowane 2025"
+title: "Slipowanie 2025"
 description: "Informacje o terminach związanych z tegorocznym slipowaniem: praca sztaplarki przy rozstawianiu sań, oraz 3 terminy slipowania."
 date: 2025-09-23T00:35:54+02:00
 image: 
@@ -11,7 +11,7 @@ tags:
   - slipowanie
 ---
 
-# Slipowane 2025
+# Slipowanie 2025
 
 Sztaplarka do rozwożenia sań będzie do dyspozycji armatorów w dniu 15 października 2025 r.
 W razie potrzeby również 16 października będą rozwożone sanie.
